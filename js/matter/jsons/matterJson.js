@@ -209,7 +209,7 @@ const matterJson = [
   {
     section: "community",
     title: "CAÇA-PALAVRAS - Diversidade de gênero",
-    actorName: "Fulano de tal",
+    actorName: "Por Larissa Marques Ferreira | larissa.marques@estudante.iftm.edu.br",
     year: "2025",
     slug: "caca_palavras_diversidade",
     thumbmail: "images/cimages/lgbt.png",
@@ -245,7 +245,7 @@ const matterJson = [
   {
     section: "community",
     title: "Revelando artistas do IFTM",
-    actorName: "Fulana de Tal",
+    actorName: "Por Larissa Marques Ferreira | larissa.marques@estudante.iftm.edu.br",
     year: "16 de Julho 2025",
     slug: "revelando_artistas",
     thumbmail: "images/cimages/biblioteca.jpg",
@@ -289,7 +289,7 @@ const matterJson = [
   {
     section: "community",
     title: "31ª turma de ADS agora no Instagram!",
-    actorName: "Fulano de tal",
+    actorName: "Por Laura Lopes Vieira | laura.lv@estudante.iftm.ed.br",
     year: "16 de Julho 2025",
     slug: "31_turma_de_ads",
     thumbmail: "images/cimages/ads.png",
@@ -653,7 +653,7 @@ const matterJson = [
     section: "see_this",
     title:
       "Participe dos Concursos Criativos do IF! Mostre seu talento em desenho, escrita ou design e deixe sua marca no nosso jornal!",
-    actorName: "Fulano de tal",
+    actorName: "Luiz Fernando Por Luiz Fernando Hypolito | luiz.hypolito@estudante.iftm.edu.br",
     slug: "participe_dos_concursos_criativos",
     year: "16 de Julho 2025",
     thumbmail: "images/seeimages/artedigital.jpg",
@@ -712,9 +712,9 @@ const matterJson = [
   },
   {
     section: "see_this",
-    title: "Enem sem mistério: entenda de uma vez como ele pode mudar sua vida",
+    title: "CONCURSO DE DESENHO - 'UM OLHAR SOBRE O IF'",
     slug: "enem_sem_misterio",
-    actorName: "Fulano de tal",
+    actorName: "Luiz Fernando Por Luiz Fernando Hypolito | luiz.hypolito@estudante.iftm.edu.br",
     year: "16 de Julho 2025",
     thumbmail: "images/seeimages/desenho.webp",
     thumbmailAlt: "Cara desenhando",
@@ -753,7 +753,7 @@ const matterJson = [
   {
     section: "see_this",
     title: "CONCURSO DE ESCRITA - 'O IF NA MINHA HISTÓRIA'",
-    actorName: "Fulano de tal",
+    actorName: "Luiz Fernando Por Luiz Fernando Hypolito | luiz.hypolito@estudante.iftm.edu.br",
     year: "16 de Julho 2025",
     slug: "concurso_de_escrita",
     thumbmail: "images/seeimages/escrevendo.avif",
