@@ -18,21 +18,26 @@ function setMenu() {
 function setLogo() {
   const linkImage = document.createElement("a");
   const logoImage = document.createElement("img");
+  const logoArea = document.createElement("div");
+
+  logoArea.style.width = "100%";
+  logoArea.classList.add("d-flex", "align-items-center", "justify-content-center");
 
   linkImage.href = "/";
-  linkImage.style.width = "100%";
-  linkImage.classList.add("d-flex", "align-items-center");
+  // linkImage.style.width = "100%";
+  // linkImage.classList.add("d-flex", "align-items-center");
 
   logoImage.alt = "logo";
-  logoImage.style.height = "80px";
-  logoImage.style.width = "80px";
+  logoImage.style.height = "100px";
+  logoImage.style.width = "150px";
   logoImage.style.objectFit = "contain";
   logoImage.src = "images/seeimages/logo.png";
   logoImage.style.flex = 1
 
   linkImage.appendChild(logoImage)
+  logoArea.appendChild(linkImage)
 
-  return linkImage
+  return logoArea
 }
 
 function setSearchInput() {
@@ -42,7 +47,7 @@ function setSearchInput() {
     input.type = "search";
     input.placeholder = "Pesquise por artigos";
     input.ariaLabel = "Search"
-    input.classList.add("form-control", "me-2", "border-1")
+    input.classList.add("form-control", "border-1")
 
     form.role = "search";
     
@@ -56,14 +61,15 @@ function setSearchInput() {
 
 function init() {
   const header = document.createElement("header");
-  const menu = setMenu();
+  // const menu = setMenu();
   const logo = setLogo();
-  const searchInput = setSearchInput();  
+  // const searchInput = setSearchInput();  
 
   header.classList.add("d-flex", "container", "align-items-center", "py-4");
   header.style.position = "relative";
 
-  header.append(menu, logo, searchInput)  
+  // header.append(menu, logo, searchInput)  
+  header.append(logo)  
 
   body.prepend(header)
 }

@@ -4,8 +4,6 @@ function handleNavigation(sectionName, slug) {
 }
 
 function createCard(cardArea, interestingCard) {
-  console.log(interestingCard);
-
   // definindo o link da pagina no nosso <a>
   const highlightLink = cardArea.querySelector("#interesting-card-link");
   highlightLink.href = handleNavigation("interesting", interestingCard.slug);
@@ -86,12 +84,12 @@ function createNav(nav) {
   return newLi;
 }
 
-function initNav() {
-  navJson.forEach((nav) => {
-    const newNav = createNav(nav);
-    document.querySelector("#nav-menu").appendChild(newNav);
-  });
-}
+// function initNav() {
+//   navJson.forEach((nav) => {
+//     const newNav = createNav(nav);
+//     document.querySelector("#nav-menu").appendChild(newNav);
+//   });
+// }
 
 function createCommunityCard(communityCardArea, communityCard) {
   const highlightLink = communityCardArea.querySelector("#community-card-link");
@@ -146,6 +144,6 @@ function initSeeThisCards() {
 
 initHighlightCard();
 init();
-initNav();
+// initNav();
 initCommunityCard();
 initSeeThisCards();
