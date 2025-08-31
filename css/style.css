@@ -26,17 +26,10 @@ body {
   background-color: #f9eef3;
 }
 
-.line-2 {
-  -webkit-line-clamp: 2;
-}
-
-.line-3 {
-  -webkit-line-clamp: 3;
-}
-
-.line-4 {
-  -webkit-line-clamp: 4;
-}
+.line-2 { line-clamp: 2; -webkit-line-clamp: 2; }
+.line-3 { line-clamp: 3; -webkit-line-clamp: 3; }
+.line-4 { line-clamp: 4; -webkit-line-clamp: 4; }
+.line-5 { line-clamp: 5; -webkit-line-clamp: 5; }
 
 .text-multiline-ellipsis {
   display: -webkit-box;

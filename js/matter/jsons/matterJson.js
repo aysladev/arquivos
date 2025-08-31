@@ -1,793 +1,739 @@
 const matterJson = [
   {
     section: "highlight",
-    title: "Arraiô com sotaque do IF",
+    title: "Literatura e Luta: biblioteca do IFTM promove debate sobre culturas negras e indígenas",
     slug: "arraio_com_sotaque",
     actorName:
       "Por Isadora Oliveira Cunha | isadora.cunha@estudante.iftm.edu.br",
-    year: "16 de Julho de 2025",
-    thumbmail: "images/himages/arraial.jpg",
-    thumbmailAlt: "Alunos do IFTM vestindo roupas típicas de festa junina.",
+    year: "30 de Agosto de 2025",
+    thumbmail: "images/himages/negros.png",
+    thumbmailAlt: "Ilustração de Negros e Indígenas",
     texts: [
       {
-        id: 1,
-        text: "Nos dias 26, 27 e 29 de junho, aconteceu mais uma edição do Festival Junino Arraiô Patrô, que aconteceu na Praça da Matriz e, como sempre, trouxe muita cor, música e tradição. O evento é uma iniciativa da Prefeitura de Patrocínio, que já vem sendo realizado há algum tempo com a proposta de valorizar a cultura junina, envolver as instituições da cidade e fortalecer o vínculo da comunidade com as nossas raízes.",
+        "id": 1,
+        "text": "No dia 20 de agosto, a Biblioteca do IFTM recebeu mais um encontro do projeto Leituras Negras e Indígenas. O tema desta edição foi “Amefricanidade, Identidade e Resistência”, reunindo estudantes e comunidade para refletir sobre a luta e a memória dos povos negros e indígenas."
       },
       {
-        id: 2,
-        text: "É claro que o IFTM não ia ficar de fora dessa! No dia 27, os alunos deram um verdadeiro show na apresentação e conquistaram o público — e também os jurados. Foram premiados com os títulos de melhor coreografia e melhores animadoras, mostrando mais uma vez todo o talento, dedicação e animação que a instituição tem",
+        "id": 2,
+        "text": "O evento, apoiado pelo NEABI - Núcleo de Estudos Afro-Brasileiros e Indígenas, mostrou como a literatura pode ser usada para resistir e refletir sobre a realidade."
       },
       {
-        id: 3,
-        text: "Como reconhecimento, os alunos ainda ganharam da Secretaria de Cultura e Turismo uma rota turística, conectando arte, cultura e conhecimento de um jeito super especial e divertido.",
+        "id": 3,
+        "text": "Para o encontro, foram escolhidos textos de Jones Manoel, Frantz Fanon, Lélia Gonzalez, Alex Ratts e Flavia Rios. As obras abriram espaço para conversas sobre racismo, cultura e o conceito de amefricanidade, que valoriza as raízes afro-indígenas da América Latina."
       },
       {
-        id: 4,
-        text: "Mais do que troféu, o que fica é o orgulho de fazer parte dessa tradição e de mostrar que o IFTM leva a cultura a sério, mas sempre com muita alegria e muito forró no coração. ",
-      },
-      {
-        id: 5,
-        text: "Agradecimentos especiais aos alunos egressos Flávia Alves Silva Santos e Gabriel Augusto Cândido dos Reis, que hoje fazem parte da UFU, mas contribuíram brilhantemente na produção da coreografia e figurino, apesar da distância e dos escassos recursos.",
-        mtTop: 2,
-      },
-      {
-        id: 5,
-        text: "Mais informações sobre o festival: <a>https://share.google/v8PdH1PF4UtkDrxoL</a>.",
-      },
-    ],
+        "id": 4,
+        "text": "O próximo encontro já está sendo preparado e logo terá um novo tema, e claro o convite está aberto para todos que quiserem participar e somar nas reflexões. Fique atento às redes do IFTM e do NEABI para não perder nenhuma informação."
+      }
+    ]
+
+
   },
   {
     section: "highlight",
-    title: "Entre salas e causas",
+    title: "A experiência de ensinar a conquistar sonhos",
     slug: "entre_salas_e_causas",
     actorName:
-      "Por Isadora Oliveira Cunha | isadora.cunha@estudante.iftm.edu.br",
-    year: "16 de Julho 2025",
-    thumbmail: "images/himages/escolawoke.jpg",
-    thumbmailAlt: "Bandeira LGBTQIAPN+ à frente do bloco 2.",
+      "Por Anna Júlia Ferreira | anna.jf@estudante.iftm.edu.br",
+    year: "30 de Agosto de 2025",
+    thumbmail: "images/himages/vitoria.png",
+    thumbmailAlt: "Menina",
     texts: [
       {
-        id: 1,
-        text: "Você já parou pra pensar o que são as Atividades Integradoras e por que elas fazem tanta diferença no IF? ",
+        "id": 1,
+        "text": "O Partiu IF é um programa voltado ao enfrentamento das desigualdades étnico-raciais na educação. Ele oferece aulas e atividades para recuperação das aprendizagens de estudantes do 9º ano do ensino fundamental que tenham cursado integralmente a rede pública, sejam negros, quilombolas, indígenas, pessoas com deficiência ou que possuam renda familiar per capita de até um salário mínimo."
       },
       {
-        id: 2,
-        text: "Basicamente, elas são momentos pensados para ir além do conteúdo da sala de aula. A proposta é conectar diferentes áreas do conhecimento e trazer à tona assuntos que realmente fazem sentido na vida dos estudantes, tornando a aprendizagem mais real e mais próxima da gente.",
+        "id": 2,
+        "text": "Nossa entrevistada desta edição é a monitora do Partiu IF, Vitória Guedes. Os monitores aproximam os participantes do universo acadêmico e ampliam o alcance das ações educativas. Atuando como mediadores entre professores e estudantes, oferecem apoio nas atividades, esclarecem dúvidas e contribuem para um ambiente de aprendizado mais acolhedor e dinâmico."
       },
       {
-        id: 3,
-        text: "Muita gente acha que essas atividades começaram agora, mas a verdade é que elas existem há mais de dez anos, desde que os cursos integrados surgiram. Segundo a atual coordenadora, Laila Lidiane da Costa Galvão, que nos concedeu as informações para esta seção, elas sempre fizeram parte da proposta pedagógica do IFTM campus Patrocínio. O que acontece é que, por conta da reposição das aulas durante o período de greve, elas têm acontecido aos sábados — mas a ideia é que voltem a acontecer durante a semana, como antes. Inclusive, já tem uma atividade marcada para o dia 11 de agosto, numa segunda-feira à tarde, com uma proposta de temática abordada por estudantes.",
+        "id": 3,
+        "text": "Essa experiência fortalece a formação do monitor, desenvolvendo habilidades de comunicação, liderança e responsabilidade social, ao mesmo tempo em que ajuda a reduzir desigualdades e incentiva a continuidade dos estudos. Pela visão de Vitória, vamos conhecer o funcionamento real do programa."
       },
       {
-        id: 4,
-        text: "Nos últimos dois anos, elas passaram a ser organizadas em parceria com os núcleos da nossa instituição, como o NEDSEG (Núcleo de Estudos de Diversidade de Sexualidade e Gênero), o NEABI (Núcleo de Estudos Afro-Brasileiros e Indígenas) e o NAPNE (Núcleo de Atendimento às Pessoas com Necessidades Específicas). A pauta LGBTQIAPN+, que rolou nessa edição, por exemplo, veio de uma demanda do próprio NEDSEG. Isso mostra que os temas não vêm do nada — eles são escolhidos com base em demandas reais dos estudantes e dos grupos que compõem o IF.",
+        "id": 4,
+        "text": "A.J.: Como você passou a integrar a equipe de Ciências da Natureza no Partiu IF? V.: Bom, foi uma benção muito grande de Deus! Eu não me inscrevi para ser monitora no Partiu IF, até que minha amiga Anna, falou que o Dr. Gustavo, médico do IFTM, queria me indicar para ser monitora de Ciências da Natureza! Eu aceitei, graças a Deus! E foi assim que passei a integrar a equipe do Partiu IF!"
       },
       {
-        id: 5,
-        text: "Normalmente, os assuntos trabalhados nas Atividades Integradoras giram em torno de causas sociais, como racismo, inclusão, igualdade de gênero, entre outros. Mas também surgem temas transversais que partem diretamente das necessidades e sugestões dos alunos. Em novembro, por exemplo, já está prevista uma atividade que vai abordar o enfrentamento ao racismo, que gira em torno de uma causa social. ",
+        "id": 5,
+        "text": "A.J.: Na sua visão, qual é o principal objetivo do Partiu IF para os estudantes que participam? V.: Em minha opinião, o Partiu IF tem como principal objetivo, além de preparar os alunos para a prova do campus, ofertar experiências que incentivem os alunos a estudar e a gostar do ambiente escolar, também mostrando o quão importante é o respeito e coleguismo, para que todos se sintam acolhidos!"
       },
       {
-        id: 6,
-        text: "As Atividades Integradoras não são apenas datas marcadas na rotina escolar. Elas são oportunidades valiosas de ampliar a nossa visão, aproximando a escola das discussões que realmente impactam a sociedade e o nosso dia a dia. É a maneira que o IF encontrou de tornar nossa formação mais consciente, mais sensível e muito mais conectada com as questões do mundo real.",
+        "id": 6,
+        "text": "A.J.: Quais mudanças ou impactos positivos você já percebeu nos alunos desde que começaram no programa? V.: Os alunos parecem mais comunicativos tanto com os professores quanto com os próprios colegas, o que promove uma boa relação entre eles!"
       },
       {
-        id: 7,
-        text: "A última edição, que aconteceu no sábado, dia 6 de julho, reforçou exatamente esse propósito. Apesar de ter sido realizada no início de julho, a atividade dialogou diretamente com o Mês do Orgulho LGBTQIAPN+, celebrado em junho, e trouxe à tona reflexões importantes mantendo o seu propósito que é dar visibilidade à luta da comunidade e trazer reflexões importantes sobre respeito, igualdade e identidade.",
+        "id": 7,
+        "text": "A.J.: Existe algum desafio recorrente que você observa no engajamento ou no aprendizado dos participantes? V.: Muitas vezes, o cansaço prejudica o aprendizado dos alunos, especialmente porque eles também têm aulas pela manhã. Em alguns casos, as matérias precisam ser mais teóricas para que o conteúdo seja aprofundado. Para mim, esse é o maior desafio para manter o engajamento dos participantes."
       },
       {
-        id: 8,
-        text: "Durante o evento, os participantes puderam visitar várias salas temáticas, todas organizadas por estudantes do NEDSEG. Os temas iam de cultura, saúde e família até esporte e representatividade. Além disso, a atividade contou com uma palestra super enriquecedora com o professor convidado Anderson Vitorino (IFGoiano), que trouxe várias informações, vivências e explicações importantes sobre a temática.",
+        "id": 8,
+        "text": "A.J.: Como são suas dinâmicas para estudantes que, muitas vezes, chegam com lacunas no conteúdo? V.: Geralmente as monitorias são uma forma de revisão da matéria que o professor está trabalhando. Mas também há a correção das listas de atividades referentes ao conteúdo, o que pode ajudar a tirar as dúvidas."
       },
       {
-        id: 9,
-        text: "Com cada edição, as atividades integradoras mostram que o IF vai muito além de salas de aula e conteúdos programáticos. É um espaço vivo, onde ideias ganham voz, onde o respeito é prática e onde aprender também significa escutar, refletir e transformar",
+        "id": 9,
+        "text": "A.J.: Você sente que o programa contribui para que os jovens se sintam mais preparados para ingressar no IF ou em outros cursos técnicos? V.: Sim, pois eles tem uma pequena amostra de como é estudar no IF e, consequentemente, em outras instituições, possibilitando o aprendizado e a responsabilidade que terão ao ingressar na escola."
       },
       {
-        id: 10,
-        text: "Porque no fim das contas, formar-se não é só garantir boas notas, é construir visão crítica, empatia e pertencimento. E é exatamente isso que essas atividades têm nos proporcionado: a chance de sermos mais do que alunos — a chance de sermos agentes de mudança.",
-        mtTop: 2,
+        "id": 10,
+        "text": "A.J.: Alguns estudantes do próprio IF não aprovam totalmente a existência do Partiu IF, argumentando que poderia haver foco em outras demandas internas. Como você responde a esse tipo de crítica? V.: Bom, seria muito interessante que a bolsa não fosse o maior incentivo dos alunos. Mas esses estudantes também têm necessidades como qualquer outro aluno da instituição, então essa bolsa pode ser de grande ajuda para eles!"
       },
-    ],
+      {
+        "id": 11,
+        "text": "A.J.: O que mais te motiva a continuar como monitora no programa, mesmo diante de eventuais dificuldades? V.: Para mim, o Partiu IF veio como uma benção de Jesus! Então sou muito grata, isso é um dos principais motivos que me motivam!"
+      },
+      {
+        "id": 12,
+        "text": "A.J.: Como você avalia a importância do apoio financeiro (bolsa) para a permanência e o desempenho dos estudantes no Partiu IF? V.: A bolsa, além de ser um incentivo, pode ajudar muitos alunos a continuarem perseverantes!"
+      },
+      {
+        "id": 13,
+        "text": "A.J.: Que mensagem você deixaria para quem ainda não conhece o programa ou tem dúvidas sobre sua relevância? V.: Tenham coragem, sejam persistentes e entreguem nas mãos de Deus! O que custa conhecer algo novo?"
+      },
+      {
+        "id": 14,
+        "text": "Mais informações sobre o programa: <a>https://iftm.edu.br/editais/ingresso/fic/20250310/programa-partiu-if-2025/</a>."
+      }
+    ]
+
   },
   {
     section: "highlight",
-    title: "JEMG - Fora da sala, dentro da arena: A garra do IF",
+    title: "Do ensino médio ao diploma: as rotas acadêmicas mais buscadas",
     slug: "jemg_fora_da_sala",
     actorName:
-      "Por Maria Vitória Alves de Barros | mariavitoria.barros@estudante.iftm.edu.br",
-    year: "16 de Julho 2025",
-    thumbmail: "images/himages/jemg.jpg",
-    thumbmailAlt: "Alunos e professores celebrando com medalhas.",
+      "Por Anna Júlia Ferreira | anna.jf@estudante.iftm.edu.br",
+    year: "30 de Setembro de 2025",
+    thumbmail: "images/himages/ufu.jpg",
+    thumbmailAlt: "UFU",
     texts: [
       {
-        id: 1,
-        text: "O IFTM campus Patrocínio participou a todo vapor nos Jogos Escolares de Minas Gerais (JEMG): mesmo sem estrutura esportiva apropriada",
+        "id": 1,
+        "text": "Agora que já conhecemos as portas que o ENEM pode abrir, vamos conhecer as universidades mais badaladas da região: UFU, UFV, UFMG e UNIFEI. Vamos identificar seus métodos de ingresso disponíveis para que você possa escolher o que mais lhe agrada e convém."
       },
       {
-        id: 2,
-        text: "A preparação dos estudantes para o JEMG, sob a coordenação dos professores de educação física, Divaldo Soares de Oliveira e Ulysses Vitorino dos Santos foi realizada por meio de projetos de extensão desenvolvidos no Ginásio São Vicente, uma vez que o campus ainda não conta com a estrutura adequada para os treinamentos esportivos. Esses projetos envolvem cinco alunos extensionistas, sendo três bolsistas e dois voluntários, e contemplam as modalidades de futsal, voleibol e basquetebol, tanto nas categorias masculina quanto feminina. Os treinamentos técnicos e táticos ocorrem entre duas a três vezes por semana, com foco no desenvolvimento das habilidades e no desempenho competitivo dos estudantes.", 
+        "id": 2,
+        "text": "UFU – Universidade Federal de Uberlândia. A UFU utiliza as notas do Exame Nacional do Ensino Médio (ENEM) para selecionar estudantes para as vagas oferecidas, além de realizar vestibular próprio, com inscrições e provas específicas. Esse vestibular possui duas fases: Primeira fase: prova objetiva (múltipla escolha). Segunda fase: prova discursiva e redação. Em 2025, a primeira fase aconteceu no dia 27 de abril."
       },
       {
-        id: 3,
-        text: "A cerimônia de abertura dos jogos aconteceu no dia 23 de junho, marcando o início da fase regional, que se estendeu até o dia 29. O JEMG é dividido em quatro etapas: municipal, microrregional, regional e estadual. Na fase municipal, o IFTM de Patrocínio obteve vitórias importantes no voleibol e no basquetebol feminino. ",
+        "id": 3,
+        "text": "UFU – Outras formas de ingresso: Transferência facultativa: para estudantes de outras instituições, mediante vagas disponíveis. Reingresso: para quem já estudou na UFU e deseja retornar. Novo diploma: para graduados que querem cursar outra habilitação. Estudante especial: cursar disciplinas isoladas, sem vínculo formal. Vagas específicas: para pessoas com 60 anos ou mais, entre outros processos seletivos. Importante: cada forma de ingresso possui seus próprios critérios e prazos, divulgados em editais específicos."
       },
       {
-        id: 4,
-        text: "Já na etapa microrregional, além de repetir os bons resultados nessas modalidades, também conquistou destaque no xadrez, tanto nas categorias masculina quanto feminina. Na fase regional, o estudante Arthur Thomas Soares, do 3º ano de Contabilidade, foi o grande destaque ao garantir classificação nas provas de atletismo (400 metros) e na natação, representando o campus com excelência",
+        "id": 4,
+        "text": "UFU – Campi: Uberlândia, Ituiutaba, Monte Carmelo e Patos de Minas. Cursos em destaque: Medicina – altamente concorrida. Odontologia – ensino e infraestrutura de excelência. Ciência da Computação / Sistemas de Informação – mercado em crescimento. Engenharia Mecânica e Elétrica – forte presença industrial. Administração e Ciências Contábeis – foco no setor de serviços."
       },
       {
-        id: 5,
-        text: "O IFTM participa de diversas modalidades no JEMG, incluindo voleibol, basquetebol, futsal, atletismo e xadrez, nas categorias masculina e feminina. Além disso, a equipe estará presente na modalidade de natação durante a fase estadual, consolidando o comprometimento da instituição com o esporte e a formação integral dos seus alunos.",
+        "id": 5,
+        "text": "UFV – Universidade Federal de Viçosa. A UFV dedica 80% das vagas ao SISU e 20% ao PASES (Programa de Avaliação Seriada para Ingresso no Ensino Superior), que avalia o candidato durante os três anos do Ensino Médio. Vale lembrar: candidatos do PASES também podem participar do ENEM e concorrer via SISU."
       },
       {
-        id: 6,
-        text: "Mais do que competir, a participação no JEMG representa o esforço coletivo, a superação dos limites e o fortalecimento do espírito de equipe entre os estudantes. As conquistas até aqui refletem não apenas talento, mas também o compromisso de todos os envolvidos (alunos, professores e coordenadores) com a construção de uma trajetória esportiva sólida e significativa. Que venham as próximas etapas e, com elas, novas vitórias e aprendizados!",
+        "id": 6,
+        "text": "UFV – Cursos em destaque: Agronomia – referência nacional e internacional. Medicina Veterinária – excelência em pesquisa agropecuária. Engenharia de Alimentos – alta demanda no setor produtivo. Ciências Biológicas – foco em biodiversidade e biotecnologia. Zootecnia – alinhada ao perfil agropecuário da região."
       },
-    ],
+      {
+        "id": 7,
+        "text": "UFMG – Universidade Federal de Minas Gerais. Uma das universidades mais prestigiadas do Brasil, a UFMG oferece diversas formas de ingresso, sempre atendendo à Lei 12.711/2012 sobre reserva de vagas. Formas de ingresso: SISU (principal meio de acesso). Vestibular seriado: implantado em 2025, com provas nos três anos do Ensino Médio. Processo Seletivo de Habilidades: para cursos como Artes Visuais, Cinema de Animação e Artes Digitais, Dança, Design de Moda, Música e Teatro. Obtenção de Novo Título: para portadores de diploma que desejam novo curso."
+      },
+      {
+        "id": 8,
+        "text": "UFMG – Cursos em destaque: Medicina – concorrência altíssima. Direito – tradicional e prestigiado. Engenharia de Produção, Civil e Elétrica – foco na infraestrutura mineira. Arquitetura e Urbanismo – referência nacional. Psicologia – pesquisa aplicada e forte corpo docente."
+      },
+      {
+        "id": 9,
+        "text": "UNIFEI – Universidade Federal de Itajubá. A UNIFEI oferece vagas pelo SISU e, desde 2025, voltou a realizar vestibular próprio. Próxima edição: prevista para 19 de outubro de 2025. Também há ingresso para premiados em olimpíadas científicas e competições de conhecimento. O curso de Física Licenciatura (EaD) é oferecido via Programa Universidade Aberta do Brasil (UAB)."
+      },
+      {
+        "id": 10,
+        "text": "UNIFEI – Cursos mais concorridos: Engenharia Elétrica – referência nacional. Engenharia Mecânica – ligação com indústria automotiva. Engenharia da Computação – destaque em inovação. Engenharia de Energia – voltada à matriz energética brasileira. Engenharia Ambiental – foco em sustentabilidade."
+      }
+    ]
+
   },
   {
     section: "highlight",
     title: "Construindo seu futuro",
-    actorName: "Por Anna Júlia Ferreira | anna.jf@estudante.iftm.edu.br",
-    year: "16 de julho 2025",
+    actorName: "Por Laura Lopes Vieira | laura.lv@estudante.iftm.edu.br",
+    year: "30 de Setembro de 2025",
     slug: "construindo_seu_futuro",
-    thumbmail: "images/himages/enemwoke.png",
-    thumbmailAlt: "Imagem promocional do ENEM",
+    thumbmail: "images/himages/estudante.png",
+    thumbmailAlt: "Estudante",
     texts: [
       {
         id: 1,
-        text: "Se é estudante do ensino médio e sonha em entrar na universidade, já parou pra pensar se realmente entende como funciona o Enem? Calma, se ainda restam dúvidas, te ajudamos a entender tudinho!",
+        text: "Todo mundo sabe que 11 de agosto é o Dia do Estudante, mas poucos lembram de onde essa data veio. Nesse dia, lá em 1827, o imperador Dom Pedro I assinou a lei que criou os dois primeiros cursos de Direito do Brasil: um em São Paulo, no famoso Largo de São Francisco, e outro em Olinda, que depois foi transferido para Recife."
       },
       {
         id: 2,
-        text: "O Enem, que provavelmente já ouviu falar bastante, é uma avaliação organizada pelo Governo Federal. Ela serve para avaliar o desempenho dos estudantes do ensino médio. Quem já terminou ou está no último ano pode fazer a prova pra valer, mas sabia que quem ainda não concluiu o ensino médio também pode fazer? Nesse caso, a pessoa entra como treineira, só pra testar os conhecimentos e se preparar. Mas o Enem não é só uma prova — ele é uma porta aberta para muitas oportunidades! Com a nota, é possível tentar uma vaga em universidades públicas, através do Sisu, conseguir uma bolsa de estudos em faculdades particulares, com o ProUni, ou até financiar os estudos por meio do Fies. E tem mais: a nota também pode levar o candidato a estudar em Portugal. Incrível, né?",
+        text: "Esses cursos foram um marco na história do país. Antes deles, quem quisesse estudar no ensino superior tinha que viajar para fora, geralmente para Portugal ou França e acabava voltando cheio de ideias e costumes de outros países. Quando as faculdades começaram a funcionar aqui, em 1828, ficou muito mais fácil para os jovens brasileiros se formarem e ajudarem a construir uma identidade cultural própria, com cara de Brasil."
       },
       {
         id: 3,
-        text: "Para fazer o Enem, é preciso pagar uma taxa de R$85. Agora, se você se encaixa em algumas situações, pode pedir a isenção dessa taxa. Ela é garantida para quem: \n 1) Está no 3º ano do ensino médio em escola pública; \n2) Estudou todo o ensino médio em escola pública ou como bolsista integral na rede privada, com renda familiar de até um salário mínimo e meio por pessoa; \n3) Está inscrito no Cadastro Único (CadÚnico).",
+        text: "Não é exagero dizer que muitos dos movimentos políticos e sociais mais importantes do Império e do início da República nasceram dentro dessas duas faculdades. Por isso, 11 de agosto virou o nosso dia, um lembrete de que educação e juventude sempre andaram juntas na transformação do país."
       },
       {
         id: 4,
-        text: "Atenção! O prazo para solicitar isenção e para se inscrever na prova já foi encerrado. Portanto, se sua inscrição foi confirmada pelo assistente virtual “Beto”, agora é só aguardar a realização da prova, que acontecerá nos dias 9 e 16 de novembro de 2025.",
+        text: " Consegue resolver essa? Um bom estudante é..."
       },
       {
         id: 5,
-        text: "Agora vamos entender como a nota no Enem pode te ajudar. O ProUni é aquele programa que oferece bolsas de estudo — pode ser bolsa integral (100%) ou parcial (50%) — em faculdades ou universidades particulares. Ele é voltado para quem ainda não tem diploma de ensino superior e não está matriculado em uma universidade pública. Se esse é seu caso, sua nota do Enem pode garantir aquela tão sonhada bolsa.",
+        image: "images/himages/palavrascagadas.png"
       },
+      { "id": 6, "text": "1. ATENCIOSO" },
+      { "id": 7, "text": "2. ATIVO" },
+      { "id": 8, "text": "3. EDUCADO" },
+      { "id": 9, "text": "4. FOCADO" },
+      { "id": 10, "text": "5. ORGANIZADO" },
+      { "id": 11, "text": "6. PRESENTE" },
+      { "id": 12, "text": "7. PARTICIPATIVO" },
+      { "id": 13, "text": "8. DEDICADO" },
+      { "id": 14, "text": "9. ESFORÇADO" },
+      { "id": 15, "text": "10. PONTUAL" },
       {
-        id: 6,
-        text: "Já o Sisu funciona assim: as universidades públicas disponibilizam suas vagas e você, usando sua nota do Enem, escolhe onde quer estudar. Durante o período de inscrição, você adiciona a sua nota no curso desejado, acompanha sua colocação e, caso necessário, pode mudar seu curso. No final, quem tiver as maiores notas dentro do número de vagas é selecionado. Simples, né?",
-      },
-      {
-        id: 7,
-        text: "Outra possibilidade para aproveitar sua classificação é o Fies, que é para quem quer estudar numa faculdade particular, mas não tem condições de pagar as mensalidades. Com ele, você faz o curso agora e só começa a pagar depois de formado, de forma parcelada e com juros bem baixos. Só que, para participar, é preciso ter renda familiar de até cinco salários mínimos por pessoa e também apresentar um fiador.",
-      },
-      {
-        id: 8,
-        text: "Sabia que sua nota do Enem pode te levar direto para uma faculdade em Portugal? Isso porque várias universidades portuguesas têm convênio com o Inep, e aceitam sua nota como parte do processo seletivo.",
-      },
-      {
-        id: 9,
-        text: "Só que cada universidade define suas próprias regras: a nota mínima, o ano válido do Enem, e até quais áreas têm mais peso na seleção. E tem um detalhe curioso: enquanto aqui no Brasil a nota vai de 0 a 1000, lá em Portugal a escala é de 0 a 200. Então, sua nota do Enem é dividida por cinco.",
-      },
-      {
-        id: 10,
-        text: "Ah, mais uma curiosidade! Lá, o termo 'licenciatura' é usado para se referir a qualquer curso de graduação, e não só aos cursos para quem quer ser professor, como é no Brasil.",
-      },
-      {
-        id: 11,
-        text: "Se quer informações mais detalhadas, não deixe de visitar o sites: Gov.br e Mec.Gov.br",
-        mtTop: 2,
-      },
-    ],
+        id: 16,
+        text: "Fonte: <https://www.materiaispdg.com.br/2020/08/dia-do-estudante-origem-alfabeto-do.html>. Acesso em 19 ago. 2025."
+      }
+    ]
+
   },
   {
     section: "highlight",
     title:
-      "Estudante de Patrocínio conquista 3º lugar em seleção de intercâmbio internacional",
+      "Como enviar meu atestado pelo Virtual IF?",
     actorName: "Por Laura Lopes Vieira | laura.lv@estudante.iftm.ed.br",
     slug: "estudante_de_patrocinio",
-    year: "16 de Julho 2025",
-    thumbmail: "images/himages/espanha.png",
-    thumbmailAlt: "Bandeira da Espanha",
+    year: "30 de Setembro de 2025",
+    thumbmail: "images/himages/atestado.jpeg",
+    thumbmailAlt: "Atestado",
     texts: [
       {
         id: 1,
-        text: "A estudante Karine Vitória Silva Rodrigues, do Campus Patrocínio do IFTM, conquistou o 3º lugar geral na seleção do Programa de Mobilidade Internacional – Projeto CHOICES, que oferece intercâmbio cultural para Espanha, Inglaterra ou França",
+        text: "Muitos alunos têm dificuldade para enviar seus atestados. Este guia foi feito para ensinar, passo a passo, como realizar o envio corretamente:",
       },
       {
         id: 2,
-        text: "Com uma pontuação total de 158,5 pontos, Karine ficou entre os primeiros colocados da lista de espera, garantindo destaque na disputa por uma vaga de intercâmbio cultural na Espanha. Uma conquista que reflete seu esforço, dedicação e compromisso com os estudos e que inspira outros estudantes a investirem nos estudos e na aprendizagem de novos idiomas.",
+        text: "1. Acesse o site: virtualif.iftm.edu.br.",
       },
       {
         id: 3,
-        text: "Para mais informações, acesse: <a>https://iftm.edu.br/editais/mobilidade-internacional/mobilidade-e-intercambio/20250429/programa-de-mobilidade-internacional-iftm-projeto-choices-edicao-2025/</a>",
-        mtTop: 2,
-      },
-    ],
-  },
-  {
-    section: "community",
-    title: "CAÇA-PALAVRAS - Diversidade de gênero",
-    actorName: "Por Larissa Marques Ferreira | larissa.marques@estudante.iftm.edu.br",
-    year: "2025",
-    slug: "caca_palavras_diversidade",
-    thumbmail: "images/cimages/lgbt.png",
-    thumbmailAlt: "Bandeira LGBT",
-    texts: [
-      {
-        id: 1,
-        text: "A sigla LGBTQIAPN+ abrange pessoas que são Lésbicas, Gays, Bi, Trans, Queer/Questionando, Intersexo, Assexuais/Arromânticas/Agênero, Pan/Pôli, Não-binárias e abraça mais de 50 orientações sexuais e identidades de gênero, permanece viva, sempre aberta para a chegada de novos termos. Criado há mais de 40 anos no Brasil, o movimento representado pela sigla ainda busca por reconhecimento e cidadania. Mesmo com avanços positivos e direitos importantes já conquistados, o preconceito ainda permanece como um dos principais obstáculos no Brasil e no mundo.",
-      },
-      {
-        id: 2,
-        text: "Além das reivindicações por visibilidade, os LGBTQIAPN+ continuam a lutar pelo direito à vida. De acordo com o levantamento feito entre 2015 e 2017 pela Fundação Oswaldo Cruz (Fiocruz) com o Ministério da Saúde e outros parceiros, a atuação da segurança é grave e a violência tende a ser mais relevante se analisadas pela lente de gênero, raça e escolaridade",
-      },
-      {
-        id: 3,
-        text: "Quer saber mais sobre? Acesse: <a>https://orientando.org/o-que-significa-lgbtqiap/</a>. ",
+        text: "2. Login: Digite seu CPF ou e-mail institucional e clique em Entrar.",
       },
       {
         id: 4,
-        image: "images/cimages/caçapalavras.png", //devia vir aq essa image (eu sei q o text ali ta errado, mas to deixando assim pra vc entender onde quero q ela vá)
+        text: "3. Área de módulos: Clique em Estudante.",
       },
       {
         id: 5,
-        text: "1.ATRAÇÃO 2. CIDADANIA 3. DIREITOS 4. ESCOLARIDADE 5. GÊNERO 6. IDENTIDADE 7. LGBTQIAPN+ 8. MOVIMENTO 9. ORIENTAÇÃO SEXUAL 10. PRECONCEITO 11. RAÇA 12. RECONHECIMENTO 13. SEGURANÇA 14. SEGURANÇA 15. VIOLÊNCIA 16. VISIBILIDADE",
+        text: "4. Solicitação: No canto superior esquerdo, clique nos três traços (menu) e procure a opção Solicitar dentro do título Secretaria Virtual - CRCA.",
       },
       {
         id: 6,
-        text: "Fonte: <a>https://www.geniol.com.br/palavras/caca-palavras/criador/</a>.",
-        mtTop: 2,
-      },
-    ],
-  },
-  {
-    section: "community",
-    title: "Revelando artistas do IFTM",
-    actorName: "Por Larissa Marques Ferreira | larissa.marques@estudante.iftm.edu.br",
-    year: "16 de Julho 2025",
-    slug: "revelando_artistas",
-    thumbmail: "images/cimages/biblioteca.jpg",
-    thumbmailAlt: "Gato...",
-    texts: [
-      {
-        id: 1,
-        text: "1° - Maria Vitória Alves de Barros - 2° ADM",
-      },
-      {
-        id: 2,
-        image: "images/cimages/primeirolugar.jpg", //aq tinha q ser img tb
-      },
-      {
-        id: 3,
-        text: "2° - Anna Júlia Ferreira - 2° ADM",
-      },
-      {
-        id: 4,
-        image: "images/cimages/segundolugar.jpg", //aq tinha q ser img tb
-      },
-      {
-        id: 5,
-        text: "3° - Luiz Felipe Rabelo Bernardes - 1° ELE",
-      },
-      {
-        id: 6,
-        image: "images/cimages/terceirolugar.jpg", //aq tinha q ser img tb
+        image: "images/himages/atestado1.jpg",
       },
       {
         id: 7,
-        text: "4° - Camila Bouzan Rodrigues - 3° ELE",
+        image: "images/himages/atestado2.jpg",
       },
       {
         id: 8,
-        image: "images/cimages/quartolugar.jpg",
-        mtTop: 2,
+        text: "5. Curso: Selecione o seu curso.",
+      },
+      {
+        id: 9,
+        text: "6. Serviço: Clique na lupa na área Serviço e selecione Abono ou Justificativa de falta.",
+      },
+      {
+        id: 10,
+        image: "images/himages/atestado3.jpg",
+      },
+      {
+        id: 11,
+        text: "7. Anexar atestado: Após selecionar a opção, aparecerá o campo para anexar arquivos. Clique e selecione o seu atestado digitalizado.",
+      },
+      {
+        id: 12,
+        text: "8. Informações adicionais: Logo abaixo, informe:O período de ausência. O motivo da falta. Seu e-mail e telefone. Quais disciplinas você perdeu no(s) dia(s) de ausência.",
+      },
+      {
+        id: 13,
+        image: "images/himages/atestado4.jpg",
+      },
+      {
+        id: 14,
+        text: "9. Conferir e assinar: Clique em Conferir e assinar documento (final da página).",
+      },
+      {
+        id: 15,
+        text: "10. Assinatura: Role até o fim, digite sua senha do Virtual IF para assinar e clique em Assinar.",
       },
     ],
   },
   {
     section: "community",
-    title: "31ª turma de ADS agora no Instagram!",
+    title: "Idiomas sem fronteiras: aprender, viajar e conquistar ",
     actorName: "Por Laura Lopes Vieira | laura.lv@estudante.iftm.ed.br",
-    year: "16 de Julho 2025",
-    slug: "31_turma_de_ads",
-    thumbmail: "images/cimages/ads.png",
-    thumbmailAlt: "Turma de ADS",
+    year: "30 de Setembro de 2025",
+    slug: "caca_palavras_diversidade",
+    thumbmail: "images/cimages/alunaads.png",
+    thumbmailAlt: "Karine, né",
     texts: [
       {
         id: 1,
-        text: "A 31ª turma do curso de Análise e Desenvolvimento de Sistemas (ADS) criou um perfil oficial no Instagram!",
+        text: "Estudante do IFTM de Patrocínio conquista bolsa para intercâmbio em Singapura",
+      },
+      {
+        "id": 2,
+        "text": "A estudante Karine Vitória Silva Rodrigues, que cursa Análise e Desenvolvimento de Sistemas (ADS) e está no 1º período, alcançou o 1º lugar no processo seletivo do Programa de Mobilidade Internacional – Projeto Lekker Satay, garantindo uma bolsa de R$30.000,00 para o intercâmbio em Singapura."
+      },
+      {
+        "id": 3,
+        "text": "Karine sempre esteve em evidência no campus por sua dedicação, comprometimento com os estudos e empatia. Mesmo antes de cursar ADS, a estudante já compunha o corpo discente do curso Técnico em Contabilidade Integrado ao Ensino Médio e também do curso de Língua Espanhola, no Centro de Idiomas. Em 2025 passou a estudar no período noturno e trabalhar durante o dia, como contadora no escritório Escritta Contabilidade, o que não a afastou das salas de aula e nem das oportunidades que surgiram pelo caminho."
+      },
+      {
+        "id": 4,
+        "text": "Ao alcançar 119 pontos no edital de internacionalização, Karine assegurou sua vaga em uma experiência de duas semanas, que inclui aulas de inglês e atividades culturais em Singapura, que é amplamente considerada um polo tecnológico, sendo frequentemente chamada de o 'Vale do Silício Asiático' devido ao seu forte investimento em inovação, atração de multinacionais e ambiente favorável para startups e desenvolvimento de novas tecnologias, especialmente em áreas como inteligência artificial e e-commerce."
+      },
+      {
+        "id": 5,
+        "text": "Parabéns, Karine, por essa grande conquista que inspira outros estudantes a investir seu tempo nos estudos e focar no aprendizado de idiomas! Que sua experiência em Singapura seja repleta de descobertas, aprendizados e marque o começo de muitas conquistas internacionais!"
+      },
+      {
+        "id": 6,
+        "text": "Caso tenha interesse em conhecer um pouco mais sobre os programas de mobilidade internacional oferecidos pelo IFTM, acesse: https://iftm.edu.br/editais/mobilidade-internacional/"
+      }
+    ],
+  },
+  {
+    section: "community",
+    title: "Olho realista em poucos passos",
+    actorName: "Por Larissa Marques Ferreira | larissa.marques@estudante.iftm.edu.br",
+    year: "30 de Setembro de 2025",
+    slug: "revelando_artistas",
+    thumbmail: "images/cimages/olhorealista.jpg",
+    thumbmailAlt: "OLHO REALISTA SENDO DESENHADO",
+    texts: [
+      {
+        id: 1,
+        text: "Descubra como desenhar um olho cheio de vida usando técnicas simples e rápidas. Ideal para quem está começando, mas quer resultados de impressionar!",
       },
       {
         id: 2,
-        text: "O objetivo é divulgar projetos, eventos, curiosidades da área de tecnologia e o dia a dia dos alunos.\nSiga, acompanhe e fique por dentro de tudo o que rola na turma",
+        text: "Materiais utilizados:", //aq tinha q ser img tb; agr eh texto msm
       },
       {
         id: 3,
-        text: "<a>https://www.instagram.com/ads31.iftmpatrocinio</a>",
-        mtTop: 2,
+        text: "1° PASSO:",
+      },
+      {
+        id: 4,
+        text: "Faça uma linha horizontal e outra vertical formando uma cruz.", //aq tinha q ser img tb; aq nao vey calma!
+      },
+      {
+        id: 5,
+        image: "images/cimages/olho1.jpg",
+      },
+      {
+        id: 6,
+        text: "2° PASSO:", //aq tinha q ser img tb; em cima zzeee
+      },
+      {
+        id: 7,
+        text: "Use esta marcação para fazer o formato do olho. Comece com um ponto abaixo da linha horizontal, fazendo um bico arredondado onde serão os pontos lacrimais. Depois faça linhas curvas, formando as pálpebras.",
+      },
+      {
+        id: 8,
+        image: "images/cimages/olho2.jpg",
+      },
+      {
+        id: 9,
+        image: "images/cimages/olho2.jpg",
+      },
+      {
+        id: 10,
+        text: "3° PASSO:",
+      },
+      {
+        id: 11,
+        text: "Faça uma esfera maior dentro do olho, que será a íris (não considere como marcação a cruz feita anteriormente). Logo depois, faça uma esfera menor no centro da Íris, formando a pupila.",
+      },
+      {
+        id: 12,
+        image: "images/cimages/olho3.jpg",
+      },
+      {
+        id: 13,
+        text: "4° PASSO:",
+      },
+      {
+        id: 14,
+        text: "Para a sobrancelha, faça novas marcações. Com uma régua ou uma folha, meça a distância entre a linha 1 e a linha 2 representadas em preto na imagem, e jogue para o lado esquerdo fazendo uma linha vertical, representada em vermelho. Depois disso, faça um ponto na região lacrimal e trace uma linha vertical, representada pela cor azul. Logo após, faça outro ponto em cima da linha em azul, um pouco acima da pálpebra superior (Use a medida anterior) e trace outra linha na horizontal, representada pelo verde na imagem.  ",
+      },
+      {
+        id: 15,
+        image: "images/cimages/olho4.png",
+      },
+      {
+        id: 16,
+        text: "5° PASSO:",
+      },
+      {
+        id: 17,
+        text: "Faça um traço levemente arredondado, começando pelo ponto verde da imagem anterior e acentuando sua curva na segunda linha. Depois faça a parte grossa da sobrancelha arredondando também. Leve em conta que a ponta fina da sobrancelha deve ficar um pouco acima da linha verde.",
+      },
+      {
+        id: 18,
+        image: "images/cimages/olho5.png",
+      },
+      {
+        id: 19,
+        text: "6° PASSO:",
+      },
+      {
+        id: 20,
+        text: "E para finalizar, apague as linhas, faça o sombreamento, cílios e a sobrancelha. Para os cílios, busque pressionar com maior força o lápis no começo e suavizar depois, para que fique grosso na raíz e fino na ponta do cílio. Os cílios da pálpebra inferior geralmente são feitos com menor espessura e comprimento, e em direções mais aleatórias. Na sobrancelha, execute a mesma movimentação de pressionar e suavizar, começando primeiro pelas extremidades, fazendo os pelos em direções opostas para que se encontrem no meio. Esfumar o sombreamento fica a seu critério.",
+      },
+      {
+        id: 21,
+        image: "images/cimages/olho6.png",
+      },
+      {
+        id: 22,
+        text: "Fonte: https://youtu.be/WqXqxGpTuGI?si=9Xbkca-0VleBtO-x",
+      },
+      {
+        id: 23,
+        text: "Posteriormente, utilize suas habilidades adquiridas nesta sessão e nos impressione concorrendo nos próximos concursos. Seja nosso destaque na edição de setembro, assim como o João Gabriel de Oliveira Rodrigues, estudante do 2º ano do curso Técnico em Administração Integrado ao Ensino Médio, que venceu o concurso da 1ª edição do Zoom com o tema 'Um olhar sobre o IF', com o desenho desta seção. Parabéns, João Gabriel!",
+      },
+      {
+        id: 24,
+        image: "images/cimages/concursodesenhovencedor.png",
+      },
+      {
+        id: 25,
+        text: "Créditos: João Gabriel de Oliveira Rodrigues",
+      },
+      {
+        id: 26,
+        text: "Mais que um lugar, um sentimento",
+      },
+      {
+        id: 26,
+        text: "Nem todos os dias são fáceis. Alguns têm altos e baixos, outros parecem perfeitos — ou desastrosos. Mas a vida é mesmo assim: imprevisível. E quando estamos cercados por pessoas que se importam de verdade, o peso do dia parece menor. É isso que o IF representa: acolhimento. E, muitas vezes, vai além disso..",
+      },
+      {
+        id: 27,
+        text: "Aqui, não aprendemos apenas com livros, mas com vivências. Os ensinamentos se revelam nas conversas de corredor, nos conselhos inesperados de um professor, nas trocas sinceras entre colegas. Aprendemos a ouvir, a respeitar, a crescer.",
+      },
+      {
+        id: 28,
+        text: "No fim das contas, o IF é muito mais do que uma escola. É onde enfrentamos desafios, mas também onde descobrimos quem somos e quem queremos ser.",
+      },
+      {
+        id: 29,
+        text: "E quando chegar a hora de seguir novos caminhos, não levaremos apenas um diploma nas mãos — levaremos memórias, amizades que se tornaram família, e a certeza de que aqui vivemos algo que vai ficar pra sempre na gente. Por que o IF não é só um lugar, é um tempo que mora na gente...",
       },
     ],
   },
   {
     section: "community",
-    title: "PASSO A PASSO PARA DESENHOS",
+    title: "1ª turma de Letras",
+    actorName: "Por Laura Lopes Vieira | laura.lv@estudante.iftm.ed.br",
+    year: "30 de Agosto de 2025",
+    slug: "31_turma_de_ads",
+    thumbmail: "images/cimages/letrasturma.png",
+    thumbmailAlt: "Turma de Letras",
+    texts: [
+      {
+        "id": 1,
+        "text": "Conheça o Instagram da 1ª turma do curso de Letras Português-Inglês, o objetivo é divulgar o curso, projetos, eventos, curiosidades da área de linguagens e suas tecnologias."
+      },
+      {
+        "id": 2,
+        "text": "Siga, acompanhe e fique por dentro de tudo o que rola na turma!"
+      },
+      {
+        "id": 3,
+        "text": "@letrasiftm1.0"
+      }
+    ]
+  },
+  {
+    section: "community",
+    title: "Línguas que se encontram, poesia que permanece",
     actorName:
       "Por Larissa Marques Ferreira | larissa.marques@estudante.iftm.edu.br",
     slug: "passo_a_passo_desenhos",
-    year: "16 de Julho 2025",
-    thumbmail: "images/cimages/pintor.png",
-    thumbmailAlt: "Pintor",
+    year: "30 de Agosto de 2025",
+    thumbmail: "images/cimages/carlos.webp",
+    thumbmailAlt: "Carlos",
     texts: [
       {
-        id: 1,
-        text: "Divirta-se aprendendo a desenhar!",
+        "id": 1,
+        "text": "A beleza de Drummond ecoando em português e italiano."
       },
       {
-        id: 2,
-        image: "images/cimages/tuto.jpg", //aq teria img
-        mtTop: 2,
+        "id": 2,
+        "text": "CONFISSÃO"
       },
-    ],
+      {
+        "id": 3,
+        "text": "Não amei bastante meu semelhante,\n\nnão catei o verme nem curei a sarna.\n\nSó proferi algumas palavras,\n\nmelodiosas, tarde, ao voltar da festa."
+      },
+      {
+        "id": 4,
+        "text": "Dei sem dar e beijei sem beijo.\n\n(Cego é talvez quem esconde os olhos\n\nembaixo do catre.) E na meia-luz\n\ntesouros fanam-se, os mais excelentes."
+      },
+      {
+        "id": 5,
+        "text": "Do que restou, como compor um homem\n\ne tudo que ele implica de suave,\n\nde concordâncias vegetais, murmúrios\n\nde riso, entrega, amor e piedade?"
+      },
+      {
+        "id": 6,
+        "text": "Não amei bastante sequer a mim mesmo,\n\ncontudo próximo. Não amei ninguém.\n\nSalvo aquele pássaro — vinha azul e doido —\n\nque se esfacelou na asas do avião."
+      },
+      {
+        "id": 7,
+        "text": "In Claro Enigma\n\nJosé Olympio, 1951\n\n© Graña Drummond"
+      },
+      {
+        "id": 8,
+        "text": "CONFESSIONE\n\nTradução: Vera Lúcia de Oliveira"
+      },
+      {
+        "id": 9,
+        "text": "Non ho amato abbastanza il mio simile,\n\nnon ho cercato il verme né curato la rogna.\n\nHo solo proferito qualche parola,\n\nmelodiosa, tardi, al ritorno della festa."
+      },
+      {
+        "id": 10,
+        "text": "Ho dato senza dare e baciato senza baci.\n\n(Cieco è forse chi nasconde gli occhi\n\nsotto la branda). E nella mezza-luce\n\ntesori si mutilano, i più eccellenti."
+      },
+      {
+        "id": 11,
+        "text": "Di quel che è rimasto, come comporre un uomo\n\ne tutto ciò che egli implica di soave,\n\ndi concordanze vegetali, sussurri\n\ndi riso, dono, amore e pietà?"
+      },
+      {
+        "id": 12,
+        "text": "Non ho amato abbastanza nemmeno me stesso,\n\nseppure prossimo. Non ho amato nessuno.\n\nSalvo quell'uccello - veniva azzurro e folle -\n\nche si è sfracellato sull'ala dell'aereo."
+      },
+      {
+        "id": 13,
+        "text": "Fonte: https://www.algumapoesia.com.br/drummond/drummond21.htm"
+      }
+    ]
+
   },
   {
     section: "interesting",
     title:
-      "Murilo Ferreira Alves, estudante do campus Patrocínio, relata experiência de intercâmbio no Canadá",
-    actorName: "Por Anna Júlia Ferreira | anna.jf@estudante.iftm.edu.br",
+      "‘A Enunciação Literária na Cena Escolar’: conhecimento que atravessa universidades e chega às escolas",
+    actorName: "Por Larissa Marques Ferreira | larissa.marques@estudante.iftm.edu.br",
     slug: "murilo_ferreira_alves_estudante",
-    year: "16 de Julho 2025",
-    thumbmail: "images/showallimages/murilo.jpg",
-    thumbmailAlt: "Murilo no Canadá",
+    year: "30 de Setembro 2025",
+    thumbmail: "images/showallimages/nelice.png",
+    thumbmailAlt: "Alguma coisa",
     texts: [
       {
-        id: 1,
-        text: "Já teve vontade de fazer um intercâmbio com o IFTM? Conheça um dos nossos estudantes, Murilo Alves Ferreira, o aluno destaque do 2°ADM que aproveitou o programa de mobilidade internacional, para estudar inglês em Toronto, no Canadá.",
+        "id": 1,
+        "text": "Projeto de Pesquisa Integrado à Extensão reúne pesquisadores para repensar o ensino de literatura no Brasil."
       },
       {
-        id: 2,
-        text: "O curso rola na ILSC, uma escola de inglês super bacana que faz parte da Greystone College, em Toronto, Canadá. É o famoso Intensive English Language Course (Part-time) - uma imersão total no idioma!\nA ideia é bem simples: dar aquele upgrade no inglês de quem faz parte do IFTM. E mais: é um mergulho na cultura, no ambiente acadêmico e no mercado de trabalho lá fora. Resumindo? Uma super ferramenta pra turbinar a internacionalização do IFTM e abrir várias portas.",
+        "id": 2,
+        "text": "Um projeto idealizado a partir de uma proposta submetida pelo professor Jonatas Aparecido Guimarães à Fundação de Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG) está promovendo uma ampla discussão sobre o ensino de literatura no país. A iniciativa busca aproximar as novas teorias da área — que avançaram significativamente nas últimas décadas — do contexto escolar, onde muitas vezes ainda se utilizam abordagens ultrapassadas para a leitura e interpretação de textos literários."
       },
       {
-        id: 3,
-        text: "A. J.: O que te motivou a escolher o Canadá como destino de intercâmbio?\nM.: Eu sempre tive vontade de fazer intercâmbio, não tinha preferência de lugar, mas quando saiu o do Canadá eu percebi que seria um bom lugar para melhorar meu inglês.",
-        mtTop: 2,
+        "id": 3,
+        "text": "Segundo o coordenador Jonatas, o desafio vai além de conhecer as teorias: é preciso adaptá-las e integrá-las à realidade das salas de aula. Para isso, foi criado o grupo de pesquisa “A Enunciação Literária na Cena Escolar”, que reúne pesquisadores de instituições como UFMG, PUC Minas, IFMG, entre outras. O grupo se encontra quinzenalmente para discutir textos, propostas e, mais recentemente, analisar a seleção de livros do Programa Nacional do Livro Didático (PNLD) voltado à literatura. Nessas reuniões, são avaliados tanto os títulos escolhidos quanto o material de apoio destinado aos professores."
       },
       {
-        id: 4,
-        text: "A. J.: Qual foi a sua maior expectativa antes de embarcar? Ela se confirmou?\nM.: Minha maior expectativa era conhecer pessoas de diversos lugares e culturas. Ela se realizou, e ainda muito mais do que eu esperava.",
+        "id": 4,
+        "text": "Nasce o site NELICE"
       },
       {
-        id: 5,
-        text: "A. J.: Qual foi o primeiro choque cultural ao chegar lá?\nM.: As pessoas não são tão receptivas quanto os brasileiros. Muitas vezes eu pedia informação e era ignorado.",
+        "id": 5,
+        "text": "Com base nessas discussões, o grupo está desenvolvendo o site nelice.com.br, com previsão de ser lançado nas próximas semanas. O portal pretende se tornar um ponto de referência nacional para pesquisadores interessados no ensino de literatura, reunindo resultados de pesquisas, artigos, livros publicados, referências bibliográficas e divulgação de eventos acadêmicos."
       },
       {
-        id: 6,
-        text: "A. J.: Como foi se adaptar à rotina da escola canadense?\nM.: Foi bem tranquilo, já que lá a escola começa bem mais tarde.",
+        "id": 6,
+        "text": "“Queremos que qualquer pesquisador de graduação ou pós-graduação no Brasil possa acessar materiais, conhecer o estado das discussões e encontrar inspiração para novos trabalhos”, destaca o coordenador Jonatas."
       },
       {
-        id: 7,
-        text: "A. J.: Como você organizou seus estudos do IF antes de embarcar para o intercâmbio? Teve algum acordo com os professores?\nM.: Antes de embarcar não houve nenhum combinado com professores, houve apenas no período que retornei, mas eles já estavam informados sobre os procedimentos internos.",
+        "id": 7,
+        "text": "O projeto conta com três alunos do curso de Letras atuando na extensão, responsáveis pela pesquisa bibliográfica e de eventos que serão divulgados no site. Essa participação, para o coordenador, é uma oportunidade para que os estudantes tenham contato direto com produções acadêmicas e debates atuais da área, ao mesmo tempo em que contribuem para a comunidade acadêmica em todo o país."
       },
       {
-        id: 8,
-        text: "A. J.: Durante o mês no Canadá, conseguiu acompanhar as matérias do IF à distância ou teve que pausar completamente?\nM.: Pausei completamente, até porque eu tinha matérias da escola no Canadá também",
+        "id": 8,
+        "text": "Participação aberta e interdisciplinar"
       },
       {
-        id: 9,
-        text: "A. J.: O IF ofereceu algum suporte ou orientação para que você não ficasse para trás academicamente?\nM.: No quesito de conteúdo não houve nenhum suporte além do horário de atendimento dos professores, tive a oportunidade de recuperar as notas que eu havia perdido.",
+        "id": 9,
+        "text": "A participação no projeto não é restrita apenas aos alunos de Letras ou a um ano específico. “Podem participar estudantes de qualquer curso, do primeiro ao último ano. O IFTM é um espaço interdisciplinar e transdisciplinar, e quanto antes o aluno tiver contato com esse tipo de conhecimento, melhor”, explica."
       },
       {
-        id: 10,
-        text: "A. J.: Se você pudesse aplicar algo da escola canadense no IF, o que seria?\nM.: A disciplina e a rigidez.",
+        "id": 10,
+        "text": "Interessados podem entrar em contato com o coordenador a qualquer época do ano para integrar a equipe, auxiliando na organização do site, levantamento de pesquisas e sistematização de materiais."
       },
       {
-        id: 11,
-        text: "A. J.: Como o intercâmbio influenciou sua forma de enxergar a importância da educação no Brasil?\nM.: Mostrou que há muito mais do mundo pra se ver comparado ao que antes eu acreditava e, assim, mostrou que a educação é o caminho pra chegar lá.",
-      },
-      {
-        id: 12,
-        text: "A. J.: Qual foi a maior lição que você trouxe desse intercâmbio?\nM.: Que nós vivemos em uma pequena bolha e que muitas vezes nos prendemos demais a ela, que o mundo é muito mais amplo e que para ser bem sucedido na vida é necessário uma visão muito mais extensa.",
-        mtTop: 2,
-      },
-    ],
+        "id": 11,
+        "text": "Com o NELICE, o grupo espera criar um espaço permanente de diálogo e atualização sobre o ensino de literatura, contribuindo para que as novas perspectivas acadêmicas alcancem as salas de aula de todo o país."
+      }
+    ]
   },
   {
     section: "interesting",
-    title: "Oportunidas abertas: Confira os editais para 2025",
+    title: "Entre o dever e a preguiça: o dilema de todo estudante",
     actorName: "Por: Laura Lopes Vieira | laura.lv@estudante.iftm.edu.br",
     slug: "oportunidades_abertas",
     year: "16 de Julho 2025",
-    thumbmail: "images/showallimages/editais.webp",
+    thumbmail: "images/showallimages/preguica.jpg",
     thumbmailAlt: "Notebook e papéis",
     texts: [
       {
         id: 1,
-        text: "O Instituto Federal do Triângulo Mineiro (IFTM) está com diversos editais abertos que oferecem oportunidades acadêmicas e institucionais para estudantes, professores e servidores. Os editais abrangem áreas como ensino, pesquisa, extensão e internacionalização, com destaque para programas de intercâmbio, publicação, formação docente e apoio à participação em eventos científicos. Confira os principais destaques deste mês:",
+        text: "O bom humor também está na nossa bagagem escolar. Confira a tirinha da Mafalda e veja se você se identifica:",
       },
       {
         id: 2,
-        text: "Conexões pelo mundo! Confira os Editais de Intercâmbio do IFTM",
+        image: "images/showallimages/tirinha.jpg",
       },
       {
         id: 3,
-        text: "O Instituto Federal do Triângulo Mineiro (IFTM) oferece oportunidades incríveis para estudantes vivenciarem experiências internacionais por meio de cursos, imersões e programas culturais em outros países. Confira abaixo os editais abertos e prepare-se para expandir seus horizontes!",
+        text: "Fonte: https://geoprofessora.blogspot.com/2010/08/otimo-retorno-as-aulas.html?m=1",
       },
       {
         id: 4,
-        text: "Programa de Mobilidade Internacional - Projeto Barçaoceania - Edição 2025",
-      },
-      {
-        id: 5,
-        text: "Estão abertas as inscrições para seleção de quatro estudantes dos cursos regulares do IFTM (exceto pós-graduação) para intercâmbio de duas semanas em Barcelona (Espanha) ou Auckland (Nova Zelândia), com início previsto para outubro de 2025.",
-      },
-      {
-        id: 6,
-        text: "Serão ofertadas duas vagas com bolsa de R$32.000,00 e duas vagas sem bolsa, com início previsto para outubro de 2025. O curso inclui aulas de idiomas e atividades culturais no país de destino.",
-      },
-      {
-        id: 7,
-        text: "Para mais informações acesse o site: <a>https://iftm.edu.br/editais/mobilidade-internacional/mobilidade-e-intercambio/20250705/programa-de-mobilidade-internacional-iftm-projeto-barcaoceania-edicao-2025</a>",
-      },
-      {
-        id: 8,
-        text: "Oportunidades Acadêmicas no IFTM",
-      },
-      {
-        id: 9,
-        text: "Além dos programas de idiomas e mobilidade internacional, o IFTM também está com editais abertos voltados à produção científica, capacitação docente, publicação de obras e participação em eventos. Essas iniciativas fortalecem a atuação acadêmica da comunidade e ampliam as possibilidades de desenvolvimento dentro e fora do campus. Confira",
-      },
-      {
-        id: 10,
-        text: "Publicação de Livros - Editora IFTM ",
-      },
-      {
-        id: 11,
-        text: "O edital incentiva a submissão de obras originais para publicação digital pela Editora IFTM, promovendo o acesso ao conhecimento e a valorização da produção acadêmica. ",
-      },
-      {
-        id: 12,
-        text: "Para mais informações acesse o site: <a>https://iftm.edu.br/editais/chamadas-publicas/editora-iftm/20250407/publicacao-de-obras-no-formato-livro-2025/</a>",
-      },
-      {
-        id: 13,
-        text: "Incentivo à Tradução e Publicação de Artigos Científicos",
-      },
-      {
-        id: 14,
-        text: "Servidores do IFTM podem solicitar auxílio financeiro de até R$2.500 para tradução e publicação de artigos científicos em periódicos internacionais.",
-      },
-      {
-        id: 15,
-        text: "Para mais informações acesse o site: <a>https://iftm.edu.br/editais/projetos-de-ensino-pesquisa-e-extensao/cartao-bb-selecao-de-projetos/20250520/edital-n-01-2025-edital-de-incentivo-a-traducao-e-publicacao-de-artigos/</a>",
-      },
-      {
-        id: 16,
-        text: "Participação em Eventos Científicos",
-      },
-      {
-        id: 17,
-        text: "Servidores do IFTM podem solicitar auxílio financeiro para participação em eventos científicos, tecnológicos ou de inovação, nacionais e internacionais, com trabalhos aprovados e vinculados a projetos institucionais.",
-      },
-      {
-        id: 18,
-        text: "Para mais informações acesse o site: <a>https://iftm.edu.br/editais/projetos-de-ensino-pesquisa-e-extensao/cartao-bb-selecao-de-projetos/20250521/edital-n-02-2025-incentivo-a-participacao-em-eventos-cientificos-tecnologicos-e-de-inovacao-nacionais-e-internaci</a>",
-      },
-      {
-        id: 19,
-        text: "Professor Voluntário - Fluxo Contínuo",
-      },
-      {
-        id: 20,
-        text: "Formação de cadastro de reserva para professores voluntários em cursos de pós-graduação. Não há vínculo empregatício e a seleção é feita com base em análise de títulos e experiência. ",
-      },
-      {
-        id: 21,
-        text: "Para mais informações acesse o site: <a>https://iftm.edu.br/editais/concursos-e-selecoes/processo-seletivo-para-professor-voluntario/20231108/edital-n-07-de-2023-processo-de-selecao-publica-em-fluxo-continuo-professor-</a>",
-        mtTop: 2,
-      },
+        text: "Quer mais desses? Envie sua sugestão de temas para o email: larissa.marques@estudante.iftm.edu.br",
+      }
     ],
   },
   {
     section: "interesting",
     title:
-      "Estudantes de Patrocínio representaram o IFTM em intercâmbio no Canadá",
-    actorName: "Por: Laura Lopes Vieira | laura.lv@estudante.iftm.edu.br",
+      "Atletas locais participaram no JEMG estadual",
+    actorName: "Por Maria Vitória Alves de Barros | mariavitoria.barros@estudante.iftm.edu.br",
     slug: "estudantes_de_patrocinio_representaram",
-    year: "16 de Julho 2025",
-    thumbmail: "images/showallimages/canada.png",
-    thumbmailAlt: "Bandeira do Canadá",
+    year: "30 de Agosto de 2025",
+    thumbmail: "images/showallimages/piscina.jpg",
+    thumbmailAlt: "Piscinão dos brothers",
     texts: [
       {
-        id: 1,
-        text: "Os estudantes Murilo Ferreira Alves e Victória Oliveira Corsi, do IFTM Campus Patrocínio, participaram de um intercâmbio internacional em Toronto, no Canadá, promovido pelo Instituto Federal do Triângulo Mineiro por meio do Processo Interno Simplificado para Seleção de Servidores e Estudantes para Intercâmbio no Canadá. Durante a experiência, os estudantes participaram de aulas de inglês e atividades imersivas em ambiente multicultural, tendo contato com diferentes sotaques, costumes e realidades. A vivência internacional reforçou o papel do idioma como ferramenta de acesso ao mundo e é uma inspiração para quem sonha em estudar no exterior!",
+        "id": 1,
+        "text": "Entre os dias 12 e 15 de agosto, a cidade de Araguari foi palco de grandes disputas esportivas durante a fase estadual dos Jogos Escolares de Minas Gerais (Jemg). As competições aconteceram no tradicional Clube Pica-pau e reuniram atletas de várias regiões do estado."
       },
       {
-        id: 2,
-        text: "Para mais informações, acesse: <a>https://iftm.edu.br/editais/mobilidade-internacional/mobilidade-e-intercambio/20240721/processo-interno-simplificado-para-selecao-de-servidores-e-estudantes-para-intercambio-no-canada/</a>",
-        mtTop: 2,
+        "id": 2,
+        "text": "Representando nossa cidade, o destaque no atletismo ficou por conta de Arthur Thomas Soares, que competiu na prova dos 400 metros rasos, prometeu muita velocidade e resistência, no entanto, não esteve bem colocado e ficou em 10ª posição. Segundo o professor Divaldo, isso se deve ao alto nível dos competidores, que já visam ao profissionalismo."
       },
-    ],
+      {
+        "id": 3,
+        "text": "Na natação, os talentos Cauã Victor e Kauã Albuquerque encaram um verdadeiro desafio aquático, disputando diversas modalidades entre atletas federados e com excelente nível:\n\n100 metros crawl (livre)\n50 metros crawl\n50 metros borboleta\n100 metros costas\n100 metros peito"
+      },
+      {
+        "id": 4,
+        "text": "A programação do JEMG estadual contou com baterias eliminatórias e finais, reunindo atletas que se destacaram nas fases municipais e regionais. Cada prova foi uma oportunidade para mostrar técnica, resistência e superação. Kauã Albuquerque conseguiu alcançar a quarta posição em uma bateria na prova de 100 metros livre."
+      },
+      {
+        "id": 5,
+        "text": "Cada passo na pista e cada braçada na piscina foram marcados pela garra e determinação que trouxeram esses jovens até aqui. Desejamos perseverança aos atletas e que as águas geladas de Araguari não desmotivem sua sede de vitórias!"
+      }
+    ]
   },
   {
     section: "interesting",
     title:
-      "Ana Clara: fé, liderança e dedicação no IF - A jornada de uma estudante que inspira",
+      "II Concurso de desenho Zoom: Tecnologia e humanidade",
     slug: "ana_clara_fe_lideranca",
     actorName:
-      "Por Luiz Fernando Hypolito | luiz.hypolito@estudante.iftm.edu.br",
+      "Por Laura Lopes Vieira | laura.lv@estudante.iftm.edu.br",
     year: "16 de Julho 2025",
-    thumbmail: "images/showallimages/anaclara.png",
-    thumbmailAlt: "Ana Clara",
+    thumbmail: "images/showallimages/concursodesenho.png",
+    thumbmailAlt: "Desenho",
     texts: [
       {
-        id: 1,
-        text: "Em meio a tantas vozes e passos apressados pelos corredores do IF, há uma presença que chama atenção pelo equilíbrio entre firmeza e leveza: Ana Clara dos Reis de Oliveira. Ela não é apenas a presidenta do Grêmio Estudantil — também lidera a Comissão de Formatura, é aluna destaque no 3º ano do curso de Administração e é conhecida por sua fé inabalável. Uma verdadeira força dentro e fora da sala de aula. Convidamos Ana Clara para uma entrevista, e o que recebemos foi mais do que respostas: foi uma aula de humanidade, organização e propósito.",
+        "id": 1,
+        "text": "Objetivo: Criar um desenho que represente, de maneira criativa, sua visão de como a tecnologia pode ser humanizadora em um futuro próximo."
       },
       {
-        id: 2,
-        text: "De vice à liderança: o início da caminhada",
+        "id": 2,
+        "text": "Participantes: Todo o corpo discente."
       },
       {
-        id: 3,
-        text: "Ana Clara começou sua trajetória no Grêmio Estudantil como vice-presidenta. O convite veio de um colega que acreditava no seu potencial e a apresentou à proposta da chapa. “Minha motivação era ajudar com a parte organizacional e apoiar quem estivesse à frente. Me identifiquei muito com os ideais da equipe”, lembra. Mas, como a vida é feita de reviravoltas, o então presidente precisou se transferir de escola, e Ana foi convidada a assumir a presidência. “Aceitei com gratidão e responsabilidade. Foi uma mudança repentina, mas muito significativa. A partir dali, entendi que liderar não é ter todas as respostas, mas estar disposta a buscá-las junto com os outros.”",
+        "id": 3,
+        "text": "Formato: Desenho feito à mão (papel A4, usando lápis de cor, giz de cera, tinta e pincel ou canetinha)."
       },
       {
-        id: 4,
-        text: "Projetos que transformam",
+        "id": 4,
+        "text": "Critérios de avaliação: Criatividade, originalidade, conexão com o tema, capricho."
       },
       {
-        id: 5,
-        text: "Ao longo de seus três anos no IF, Ana Clara participou junto às comissões organizadoras de muitos projetos marcantes: Corifeus, desfiles, palestras, olimpíadas, minicursos, eventos como o Arraiô Patrô e outras apresentações. Mas um em especial ficou marcado no coração: o projeto de extensão Conscientização Corporal, coordenado pelo professor Maurício. “O objetivo era levar informações sobre doenças comuns à população para alunos de escolas públicas. A iniciativa tocou profundamente em mim, pois se relaciona com vivências pessoais e a importância da informação em espaços menos favorecidos. Ensinar nesses ambientes foi enriquecedor. Aprendi tanto quanto compartilhei.”",
+        "id": 5,
+        "text": "Premiação: Publicação do desenho no jornal + Exposição em Mural + brinde surpresa."
       },
       {
-        id: 6,
-        text: "Equilibrando fé, Grêmio, estudos e igreja",
+        "id": 6,
+        "text": "Inscrições abertas até 20 de setembro de 2025."
       },
       {
-        id: 7,
-        text: "Conciliar tantas funções não é fácil. Ana Clara admite que enfrenta momentos de tensão, especialmente quando as responsabilidades no IF, na igreja e no Grêmio se acumulam. Mas sua estratégia é simples e eficaz: organização e apoio. “Mantenho uma agenda bem dividida por prioridades, e isso me ajuda muito. Além disso, tenho o privilégio de contar com equipes maravilhosas em todos os lugares por onde passo. Ninguém faz nada sozinho, e esse apoio coletivo é essencial.”",
-      },
-      {
-        id: 8,
-        text: "O que ela aprendeu sobre liderança",
-      },
-      {
-        id: 9,
-        text: "Quando perguntamos o que mais aprendeu desde que assumiu a presidência do Grêmio, Ana Clara é direta: “A liderança é relativa. Ela é construída com o apoio dos outros, mas constantemente posta à prova. É preciso firmeza e escuta ativa. Mais do que pedir, é necessário saber ouvir, apoiar e manter a ordem com empatia.” Para ela, a verdadeira liderança nasce da vontade de servir e contribuir para o bem coletivo — e não do desejo de destaque ou controle.",
-      },
-      {
-        id: 10,
-        text: "Fé como base para tudo",
-      },
-      {
-        id: 11,
-        text: "Ana Clara é abertamente religiosa e muito devota de Nossa Senhora. Essa fé não fica de lado nem nas decisões do IF. “Antes de qualquer prova, reunião ou desafio, eu sempre rezo. Peço: ‘Maria, passa na frente’. Já recebi muitas bênçãos assim. A fé me guia e me mantém firme nos momentos mais difíceis.” Essa espiritualidade é, segundo ela, o que sustenta sua rotina intensa. Para muitos, é organização. Para Ana, é fé mais organização.",
-      },
-      {
-        id: 12,
-        text: "ADM: vocação e paixão",
-      },
-      {
-        id: 13,
-        text: "Sobre o curso de Administração, Ana fala com brilho nos olhos. “Gosto de tudo, mas tenho um carinho especial pelas áreas voltadas ao relacionamento com pessoas, liderança e criatividade. Planejar, organizar e executar ideias é algo que me empolga. Tudo faz muito sentido para mim nessa área.” Ela não tem dúvidas de que quer seguir na área administrativa. “Vejo isso como missão mesmo. Fazer com que coisas funcionem bem, com pessoas envolvidas e resultados reais. Quero continuar nesse caminho.”",
-      },
-      {
-        id: 14,
-        text: "O IF dos sonhos",
-      },
-      {
-        id: 15,
-        text: "Quando perguntada sobre o que ainda pode melhorar no IF, Ana reconhece os avanços que vêm acontecendo, mas destaca a importância de uma maior estabilidade na grade de horários e no corpo docente. “Isso favorece o ensino e dá mais liberdade para que os professores usem suas metodologias. Os alunos também ganham mais estabilidade para se envolver com projetos, eventos e atividades.”",
-      },
-      {
-        id: 16,
-        text: "Grêmio como ponte de transformação",
-      },
-      {
-        id: 17,
-        text: "A líder o Grêmio como muito mais do que uma representação simbólica dos estudantes. Para ela, é uma ponte viva entre os alunos e a gestão da escola. “É um canal para escutar, propor, representar e agir. É fazer com que os alunos se sintam parte do processo de construção da escola.” Ela acredita que o Grêmio deve sempre estar atento às demandas estudantis e disposto a dialogar. “Mesmo pequenas ações podem transformar o ambiente escolar num espaço mais justo e acolhedor.”",
-      },
-      {
-        id: 18,
-        text: "Ana encerra a entrevista com um conselho direto e sincero: “Participe. Mesmo que você ache que não tem tempo, que não vai dar certo, que ninguém vai notar. Participe. Cada envolvimento ensina algo. Todos temos talentos, e mesmo que pareça que ninguém está vendo, alguém sempre está. E essa pessoa pode ser justamente quem vai te abrir uma porta no futuro.” Ana Clara é mais do que uma aluna do IF. É exemplo de que é possível sim fazer a diferença com empatia, fé, planejamento e ação. Que sua história inspire outros estudantes a se envolverem, se organizarem — e acreditarem que já estão deixando sua marca, aqui e agora.",
-      },
-    ],
+        "id": 7,
+        "text": "Envie por e-mail para a professora Juliana Batista: julianabatista@iftm.edu.br. Além do desenho, envie seu nome completo e turma."
+      }
+    ]
   },
   {
     section: "see_this",
-    title: "TRAVA-LÍNGUA",
+    title: "Resultado dos Concursos",
     actorName:
-      "Por Larissa Marques Ferreira | larissa.marques@estudante.iftm.edu.br",
+      "Por Laura Lopes Vieira | laura.lv@estudante.iftm.edu.br",
     slug: "trava_lingua",
-    year: "16 de Julho 2025",
-    thumbmail: "images/seeimages/travalingua.jpg",
-    thumbmailAlt: "Menina com a língua embolada",
+    year: "30 de Agosto de 2025",
+    thumbmail: "images/seeimages/logozoom.jpeg",
+    thumbmailAlt: "Nova Logo Zoom",
     texts: [
       {
-        id: 1,
-        text: "Teste sua dicção com este desafio: ",
+        "id": 1,
+        "text": "Concurso de criação da logo: 'A cara do nosso jornal'\nVencedora: Isabele Maria Ferreira Miguel"
       },
       {
-        id: 2,
-        text: "Não confunda ornitorrinco\ncom otorrinolaringologista,\nornitorrinco com ornitologista,\nornitologista com otorrinolaringologista,\nporque ornitorrinco é ornitorrinco,\nornitologista é ornitologista,\ne otorrinolaringologista é otorrinolaringologista.\n",
+        "id": 2,
+        "text": "Concurso de desenho: 'Um olhar sobre o IF'\nVencedor: João Gabriel de Oliveira Rodrigues"
       },
       {
-        id: 3,
-        text: "Fonte: <a>https://www.normaculta.com.br/18-trava-linguas-do-folclore-brasileiro</a>. Acesso em 12 jul. 2025.",
-        mtTop: 2,
+        "id": 3,
+        "text": "Concurso de escrita: 'O IF na minha história'\nVencedora: Maria Vitória Alves de Barros"
       },
-    ],
+      {
+        "id": 4,
+        "text": "Parabéns pelo dinamismo dos três finalistas e por colaborarem ativamente com o Zoom! Aos demais participantes, foi uma satisfação poder ver suas artes! Não deixem de continuar exprimindo seu fazer criativo!"
+      }
+    ]
+
   },
   {
     section: "see_this",
-    title: "Hora do Conto",
+    title: "III Roda de Conversa sobre o PNAE reúne IFs em debate sobre educação alimentar",
     actorName:
-      "Por Larissa Marques Ferreira | larissa.marques@estudante.iftm.edu.br",
-    year: "16 de Julho 2025",
-    thumbmail: "images/seeimages/ruth.webp",
-    thumbmailAlt: "Ruth Rocha",
+      "Por Isadora Oliveira Cunha | isadora.cunha@estudante.iftm.edu.br",
+    year: "30 de Agosto de 2025",
+    thumbmail: "images/seeimages/pnae.webp",
+    thumbmailAlt: "PNAE",
     slug: "hora_do_conto_por_larissa",
     texts: [
       {
-        id: 1,
-        text: "Como se fosse dinheiro",
+        "id": 1,
+        "text": "No dia 28 de agosto, das 14h às 17h, acontece a III Roda de Conversas sobre o Programa Nacional de Alimentação Escolar (PNAE), transmitida ao vivo pelo canal do IFTM no YouTube. O encontro terá carga horária de 3 horas, reunindo diferentes Institutos Federais para falar sobre um tema que todo estudante conhece de perto: a alimentação escolar."
       },
       {
-        id: 2,
-        text: "Ruth Rocha",
+        "id": 2,
+        "text": "A proposta abre espaço para a troca de experiências, mostrando como a alimentação escolar ultrapassa a ideia de apenas garantir refeições: ela envolve saúde, aprendizado, cultura e até inclusão social."
       },
       {
-        id: 3,
-        text: "Todos os dias, Catapimba levava dinheiro para a escola para comprar o lanche.\nChegava no bar, comprava um sanduíche e pagava seu Lucas.\nMas seu Lucas nunca tinha troco:\n– Ô, menino, leva uma bala que eu não tenho troco.\nUm dia, Catapimba reclamou de seu Lucas:\n– Seu Lucas, eu não quero bala, quero meu troco em dinheiro.\n– Ora, menino, eu não tenho troco. Que é que eu posso fazer?\n– Ora, bala é como se fosse dinheiro, menino! Ora essa… […]\nAí, o Catapimba resolveu dar um jeito.\nNo dia seguinte, apareceu com um embrulhão debaixo do braço.\nOs colegas queriam saber o que era. Catapimba ria e respondia:\n– Na hora do recreio vocês vão ver…\nE, na hora do recreio, todo mundo viu.\nCatapimba comprou o seu lanche. Na hora de pagar, abriu o embrulho. E tirou de dentro… uma galinha.\nBotou a galinha em cima do balcão.\n– Que é isso, menino? – perguntou seu Lucas.\n– É para pagar o sanduíche, seu Lucas. Galinha é como se fosse dinheiro… O senhor pode me dar o troco, por favor?\nOs meninos estavam esperando para ver o que seu Lucas ia fazer.\nSeu Lucas ficou um tempão parado, pensando…\nAí, colocou umas moedas no balcão:\n– Está aí seu troco, menino!\nE pegou a galinha para acabar com a confusão.\nNo dia seguinte, todas as crianças apareceram com embrulhos debaixo do braço.\nNo recreio, todo mundo foi comprar lanche.\nNa hora de pagar…\nTeve gente que queria pagar com raquete de pingue pongue, com papagaio de papel, com vidro de cola, com geleia de jabuticaba…\nE, quando seu Lucas reclamava, a resposta era sempre a mesma:\n– Ué, seu Lucas, é como se fosse dinheiro…\n```",
+        "id": 3,
+        "text": "A mediação será feita por Larissa Vieira de Melo e Flávia Corrêa da Costa, ambas do IFTM. Já os palestrantes representam uma diversidade de regiões do país: Audrey Andrade Bertolini (IFSP), Diogo Vale (IFRN), Jahny Kássia Duarte Rocha (IFTO), Priscila Porta Nova de Oliveira (IFFar) e Roberta Mendonça (IFG)."
       },
       {
-        id: 4,
-        text: "ROCHA, Ruth. Como se fosse dinheiro. Ilustrações de Marcello Barreto e Ivan Baptista. 4. ed. Rio de Janeiro: Rocco, 1996.",
-        mtTop: 2,
-      },
-    ],
-  },
-  {
-    section: "see_this",
-    title:
-      "Participe dos Concursos Criativos do IF! Mostre seu talento em desenho, escrita ou design e deixe sua marca no nosso jornal!",
-    actorName: "Luiz Fernando Por Luiz Fernando Hypolito | luiz.hypolito@estudante.iftm.edu.br",
-    slug: "participe_dos_concursos_criativos",
-    year: "16 de Julho 2025",
-    thumbmail: "images/seeimages/artedigital.jpg",
-    thumbmailAlt: "Arte digital",
-    texts: [
-      {
-        id: 1,
-        text: "CONCURSO DE CRIAÇÃO DA LOGO - 'A CARA DO NOSSO JORNAL!'",
-      },
-      {
-        id: 2,
-        text: "Objetivo: Criar uma logomarca original e criativa que represente o jornal da escola. Essa será a identidade visual do jornal! ",
-      },
-      {
-        id: 3,
-        text: "Quem pode participar: Todos os alunos da escola",
-      },
-      {
-        id: 4,
-        text: "Formato: Desenho feito digitalmente.",
-      },
-      {
-        id: 5,
-        text: "Critérios de avaliação: Originalidade, clareza, criatividade e relação com o jornal.",
-      },
-      {
-        id: 6,
-        text: "Avaliadores: editores do Zoom",
-      },
-      {
-        id: 7,
-        text: "Premiação: A logo será usada oficialmente no jornal + certificado + brinde especial.",
-      },
-      {
-        id: 8,
-        text: "Descrição do projeto para se inspirar: É o jornal dos estudantes, feito para alunos e por alunos, com o objetivo de promover o hábito da leitura, o gosto pela escrita e o acesso à informação de forma leve, crítica e envolvente. ",
-      },
-      {
-        id: 9,
-        text: "Mais do que um informativo, é um espaço de expressão, conexão e construção coletiva. ",
-      },
-      {
-        id: 10,
-        text: "Aqui você encontra: ",
-      },
-      {
-        id: 11,
-        text: "1. Notícias e eventos do campus\n2. Textos opinativos e criativos\n3. Entrevistas com alunos e professores\n4. Dicas de estudo e carreira\n5. Espaço cultural (poemas, desenhos, resenhas)\n6. Divulgação de projetos e conquistas",
-      },
-      {
-        id: 9,
-        text: "Inscrições abertas até 10 de julho de 2025.\nEnvie por e-mail para professora Juliana Batista: julianabatista@iftm.edu.br",
-        mtTop: 2,
-      },
-    ],
-  },
-  {
-    section: "see_this",
-    title: "CONCURSO DE DESENHO - 'UM OLHAR SOBRE O IF'",
-    slug: "enem_sem_misterio",
-    actorName: "Luiz Fernando Por Luiz Fernando Hypolito | luiz.hypolito@estudante.iftm.edu.br",
-    year: "16 de Julho 2025",
-    thumbmail: "images/seeimages/desenho.webp",
-    thumbmailAlt: "Cara desenhando",
-    texts: [
-      {
-        id: 1,
-        text: "Objetivo: Criar um desenho que represente a instituição de uma maneira criativa: pode ser um lugar especial, um momento marcante, ou a visão particular sobre a comunidade escolar do IF. ",
-      },
-      {
-        id: 2,
-        text: "Quem pode participar: Todos os alunos da escola",
-      },
-      {
-        id: 3,
-        text: "Formato: Desenho feito à mão (papel A4, usando lápis de cor, giz de cera, tinta ou canetinha) ou digitalmente.",
-      },
-      {
-        id: 4,
-        text: "Critérios de avaliação: Criatividade, originalidade, conexão com o tema, capricho.",
-      },
-      {
-        id: 5,
-        text: "Premiação: Publicação do desenho no jornal + Exposição em Mural + brinde surpresa.",
-      },
-      {
-        id: 6,
-        text: "Inscrições abertas até 10 de julho de 2025.",
-      },
-      {
-        id: 7,
-        text: "Envie por e-mail para professora Juliana Batista: julianabatista@iftm.edu.br",
-        mtTop: 2,
-      },
-    ],
-  },
-  {
-    section: "see_this",
-    title: "CONCURSO DE ESCRITA - 'O IF NA MINHA HISTÓRIA'",
-    actorName: "Luiz Fernando Por Luiz Fernando Hypolito | luiz.hypolito@estudante.iftm.edu.br",
-    year: "16 de Julho 2025",
-    slug: "concurso_de_escrita",
-    thumbmail: "images/seeimages/escrevendo.avif",
-    thumbmailAlt: "Mulher escrevendo",
-    texts: [
-      {
-        id: 1,
-        text: "Objetivo: O concurso visa valorizar a escrita dos estudantes, fortalecer o vínculo com o Instituto Federal e incentivar a reflexão sobre o papel transformador da educação. A proposta busca destacar diferentes vozes e perspectivas sobre o que o IF significa na vida de cada estudante: sonhos, oportunidades, desafios e conquistas",
-      },
-      {
-        id: 2,
-        text: "Quem pode participar:",
-      },
-      {
-        id: 3,
-        text: "● Categoria 1: 1º ano \n● Categoria 2: 2º ano \n● Categoria 3: 3º ano ",
-      },
-      {
-        id: 4,
-        text: "Formato: Texto manuscrito ou digitado, de no máximo uma página.",
-      },
-      {
-        id: 5,
-        text: "Critérios de avaliação: Criatividade, coesão, coerência e expressividade.",
-      },
-      {
-        id: 6,
-        text: "Premiação: Publicação no jornal + brinde especial + destaque no mural da escola \nInscrições abertas até 10 de julho de 2025.",
-      },
-      {
-        id: 7,
-        text: "Envie por e-mail para professora Juliana Batista: julianabatista@iftm.edu.br",
-        mtTop: 2,
-      },
-    ],
+        "id": 4,
+        "text": "Mais do que um debate sobre legislação e práticas, o evento promete ser um momento de conexão entre diferentes realidades, valorizando iniciativas que já funcionam e inspirando novas ideias para que a alimentação escolar continue sendo parte fundamental da vida estudantil. Quer saber mais? É só acompanhar a transmissão no YouTube do IFTM e entrar nessa conversa!"
+      }
+    ]
   },
 ];

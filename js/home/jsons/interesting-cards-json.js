@@ -1,37 +1,37 @@
 const interestingCardJson = [
   {
     id: 1,
-    tag: "Entrevistas",
-    cardImage: "images/showallimages/murilo.jpg",
+    tag: "Anúncios",
+    cardImage: "images/showallimages/nelice.png",
     description:
-      "Murilo Ferreira Alves, estudante do campus Patrocínio, relata experiência de intercâmbio no Canadá",
-    altCard: "Murilo no Canadá",
+      "'A Enunciação Literária na Cena Escolar': conhecimento que atravessa universidades e chega às escolas",
+    altCard: "Logo do projeto 'NELICE'",
     slug: "murilo_ferreira_alves_estudante",
   },
   {
     id: 2,
-    tag: "Editais",
-    cardImage: "images/showallimages/editais.webp",
-    description: "Oportunidas abertas: Confira os editais para 2025",
-    altCard: "Notebook e papéis",
+    tag: "Diversão",
+    cardImage: "images/showallimages/preguica.jpg",
+    description: "Entre o dever e a preguiça: o dilema de todo estudante",
+    altCard: "Menino com preguiça",
     slug: "oportunidades_abertas",
   },
   {
     id: 3,
-    tag: "Idiomas",
-    cardImage: "images/showallimages/canada.png",
+    tag: "Eventos",
+    cardImage: "images/showallimages/piscina.jpg",
     description:
-      "Estudantes de Patrocínio representaram o IFTM em intercâmbio no Canadá",
-    altCard: "Bandeira do Canadá",
+      "Atletas locais participaram no JEMG estadual",
+    altCard: "Piscina",
     slug: "estudantes_de_patrocinio_representaram",
   },
   {
     id: 4,
-    tag: "Entrevistas",
-    cardImage: "images/showallimages/anaclara.png",
+    tag: "Concursos",
+    cardImage: "images/showallimages/concursodesenho.png",
     description:
-      "Ana Clara: fé, liderança e dedicação no IF - A jornada de uma estudante que inspira",
-    altCard: "Ana Clara",
+      " II Concurso de desenho Zoom: Tecnologia e humanidade",
+    altCard: "Desenho",
     slug: "ana_clara_fe_lideranca",
   },
 ];
