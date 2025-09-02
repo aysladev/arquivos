@@ -15,4 +15,13 @@ const seeThisCardJson = [
     altCard: "PNAE",
     slug: "hora_do_conto_por_larissa",
   },
+  { 
+    id: 3,
+    tag: "Editais",
+    cardImage: "images/seeimages/editais.png",
+    title: "Novos editais do IFTM 2025: Veja como participar",
+    altCard: "Editais IFTM",
+    slug: "novos_editais_iftm",
+  },
+  
 ];

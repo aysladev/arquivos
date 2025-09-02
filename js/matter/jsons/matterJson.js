@@ -201,7 +201,7 @@ const matterJson = [
     section: "highlight",
     title:
       "Como enviar meu atestado pelo Virtual IF?",
-    actorName: "Por Laura Lopes Vieira | laura.lv@estudante.iftm.ed.br",
+    actorName: "Por Maria Vitória Alves de Barros | mariavitoria.barros@estudante.iftm.edu.br",
     slug: "estudante_de_patrocinio",
     year: "30 de Setembro de 2025",
     thumbmail: "images/himages/atestado.jpeg",
@@ -414,6 +414,10 @@ const matterJson = [
         text: "Créditos: João Gabriel de Oliveira Rodrigues",
       },
       {
+        id: 30,
+        text: "Além da arte do desenho, também apresentamos a arte da escrita. A finalista do concurso 'O IF na minha história' é Maria Vitória Alves de Barros, estudante do ensino médio integrado, que detalhou em palavras sua sensação de pertencimento ao IFTM campus Patrocínio, com o texto a seguir. Confira!",
+      },
+      {
         id: 26,
         text: "Mais que um lugar, um sentimento",
       },
@@ -432,6 +436,26 @@ const matterJson = [
       {
         id: 29,
         text: "E quando chegar a hora de seguir novos caminhos, não levaremos apenas um diploma nas mãos — levaremos memórias, amizades que se tornaram família, e a certeza de que aqui vivemos algo que vai ficar pra sempre na gente. Por que o IF não é só um lugar, é um tempo que mora na gente...",
+      },
+      {
+        id: 31,
+        text: "Por Maria Vitória Alves de Barros",
+      },
+      {
+        id: 32,
+        text: "A partir desta sessão, o Zoom ganhou sua identidade visual. A versão premiada do concurso de criação da logo 'A cara do nosso jornal' ficou por conta de Isabele Maria Ferreira Miguel, estudante do ensino médio integrado. Foram vários inscritos e uma votação acirrada. Reconheça nossa marca: ",
+      },
+      {
+        id: 33,
+        image: "images/seeimages/logozoom.jpeg",
+      },
+      {
+        id: 34,
+        text: " Por Isabele Maria Ferreira Miguel.",
+      },
+      {
+        id: 35,
+        text: "Para as próximas edições, envie-nos um assunto que gostaria de ler aqui no jornal ou um anúncio que considere interessante para a comunidade acadêmica. A responsável é a Laura, envie sua mensagem pelo  (34)  999501099. ",
       },
     ],
   },
@@ -735,5 +759,69 @@ const matterJson = [
         "text": "Mais do que um debate sobre legislação e práticas, o evento promete ser um momento de conexão entre diferentes realidades, valorizando iniciativas que já funcionam e inspirando novas ideias para que a alimentação escolar continue sendo parte fundamental da vida estudantil. Quer saber mais? É só acompanhar a transmissão no YouTube do IFTM e entrar nessa conversa!"
       }
     ]
+  },
+  {
+    section: "see_this",
+    title: "Novos editais do IFTM 2025: Veja como participar",
+    actorName:
+      "Por Laura Lopes Vieira | laura.lv@estudante.iftm.edu.br",
+    year: "01 de Setembro de 2025",
+    thumbmail: "images/seeimages/editais.png",
+    thumbmailAlt: "Editais IFTM",
+    slug: "novos_editais_iftm", //aaaaaaaaah ta kkkkkkkkkkkkkkkkk bem mais simples ent
+    texts: [
+    {
+      "id": 1,
+      "text": "O Instituto Federal do Triângulo Mineiro (IFTM) está com vários editais abertos, oferecendo oportunidades acadêmicas e institucionais para estudantes, professores e servidores. As iniciativas abrangem ensino, pesquisa e extensão, incluindo publicação de obras, formação docente, apoio para participação em eventos científicos e exames de proficiência em idiomas. Confira os destaques deste mês!"
+    },
+    {
+      "id": 2,
+      "text": "III Congresso de extensão do IFTM – CONEXT 2025\n\nEstão abertas, de 07 de julho a 08 de setembro de 2025, as inscrições para o III Congresso de Extensão do IFTM (CONEXT), que será realizado em Uberlândia/MG, nos dias 04 e 05 de novembro de 2025. O evento reúne projetos e experiências de extensão e curricularização da extensão, com apresentações em formato de pôster digital e oral. Os melhores trabalhos de cada sessão receberão premiação de destaque científico.\nPara mais informações acesse o site: https://iftm.edu.br/editais/projetos-de-ensino-pesquisa-e-extensao/editais-proext/20250707/edital-n-5-2025-proext-rei-reitoria-edital-iii-conext-congresso-de-extensao-do-iftm-iv-mostra-de-trabalhos-de-extensao-do-iftm-e"
+    },
+    {
+      "id": 3,
+      "image": "images/seeimages/imagem_conext.png"
+    },
+    {
+      "id": 4,
+      "text": "VII Seminário de pesquisa e inovação tecnológica – SEPIT 2025\n\nEstão abertas as inscrições para o VII Seminário de Pesquisa e Inovação Tecnológica (SEPIT) do IFTM, que será realizado em Uberlândia, de 4 a 6 de novembro de 2025. O evento faz parte do Universo IFTM e reúne estudantes e pesquisadores para apresentação de trabalhos na Mostra de Inovação (pôsteres) e na Feira Maker e Competição de Robótica. Os melhores trabalhos da Mostra receberão destaque, e todos os participantes terão direito a certificado.\nPara mais informações acesse o site: https://iftm.edu.br/editais/projetos-de-ensino-pesquisa-e-extensao/eventos-propi/20250707/edital-14-2025-sepit"
+    },
+    {
+      "id": 5,
+      "text": "XI Simpósio de pós-graduação do IFTM – SIMPÓS 2025\n\nEstão abertas, de 15 de julho a 22 de setembro de 2025, as inscrições para o XI Simpósio de Pós-graduação do IFTM (SIMPÓS), que será realizado de forma remota nos dias 5 e 6 de novembro de 2025, dentro do Universo IFTM. O evento reúne estudantes e egressos da pós-graduação para apresentação de pesquisas e produtos técnicos e tecnológicos nas modalidades resumo simples, trabalho completo e produto técnico/tecnológico.\nPara mais informações acesse o site: https://iftm.edu.br/editais/projetos-de-ensino-pesquisa-e-extensao/eventos-propi/20250707/edital-n-11-2025-xi-simposio-de-pos-graduacao-do-instituto-federal-do-triangulo-mineiro"
+    },
+    {
+      "id": 6,
+      "text": "XV Seminário de iniciação científica e inovação tecnológica – SIN/IFTM 2025\n\nEstão abertas as inscrições para o XV Seminário de Iniciação Científica e Inovação Tecnológica (SIN/IFTM), que será realizado em Uberlândia/MG, nos dias 4 e 5 de novembro de 2025, dentro da programação do Universo IFTM. O evento tem como objetivo divulgar os resultados de pesquisas desenvolvidas por estudantes bolsistas e voluntários nos programas de iniciação científica e inovação do IFTM, com apresentação em formato de pôster digital. Os trabalhos aprovados comporão os Anais do evento, e os melhores serão premiados pela Receita Federal.\nPara mais informações acesse o site: https://iftm.edu.br/editais/projetos-de-ensino-pesquisa-e-extensao/eventos-propi/20250707/edital-09-2025-xv-sin"
+    },
+    {
+      "id": 7,
+      "text": "Apoio a grupos de pesquisa\n\nEstão abertas as inscrições para o processo seletivo que concede apoio financeiro a pesquisadores do IFTM para a formação e consolidação de grupos de pesquisa, com o objetivo de fortalecer a produção científica e tecnológica por meio de projetos alinhados às linhas de pesquisa institucionais. As inscrições seguem até dia 5 de setembro, e o apoio prevê recursos para o custeio de atividades de pesquisa de até R$15.000,00.\nPara mais informações acesse o site: https://iftm.edu.br/editais/projetos-de-ensino-pesquisa-e-extensao/cartao-bb-selecao-de-projetos/20250714/edital-n-13-2025-programa-de-apoio-aos-grupos-de-pesquisa-do-iftm"
+    },
+    {
+      "id": 8,
+      "text": "Programa institucional de iniciação científica voluntária\n\nEstão abertas, de 01 de agosto a 09 de dezembro de 2025, as inscrições para o PIVIC, que seleciona estudantes dos cursos técnicos e de graduação do IFTM para participação voluntária em projetos de pesquisa. O programa busca incentivar a vocação científica e proporcionar experiência acadêmica aos alunos, garantindo certificado aos participantes.\nPara mais informações acesse o site: https://iftm.edu.br/editais/projetos-de-ensino-pesquisa-e-extensao/iniciacao-cientifica-e-tecnologica/20250730/edital-n-15-2025-pivic-graduacao"
+    },
+    {
+      "id": 9,
+      "text": "Oportunidades de participação em eventos científicos\n\nEstão abertas, até 01 de dezembro de 2025, as inscrições para solicitação de auxílio financeiro destinado à participação de servidores do IFTM em eventos científicos, tecnológicos e de inovação, nacionais ou internacionais. O edital concede até R$2.500,00 para eventos nacionais e até R$5.000,00 para eventos internacionais, para servidores com trabalhos aceitos e vinculados a projetos institucionais.\nPara mais informações acesse o site: https://iftm.edu.br/editais/projetos-de-ensino-pesquisa-e-extensao/cartao-bb-selecao-de-projetos/20250521/edital-n-02-2025-incentivo-a-participacao-em-eventos-cientificos-tecnologicos-e-de-inovacao-nacionais-e-internaci"
+    },
+    {
+      "id": 10,
+      "text": "Chamada interna de projetos de ensino – Campus Patrocínio\n\nEstão abertas, de 25 de fevereiro a 31 de outubro de 2025, as inscrições para submissão de projetos de ensino no IFTM Campus Patrocínio. A chamada em fluxo contínuo busca incentivar práticas inovadoras, integradas à pesquisa e extensão, que promovam permanência e êxito dos estudantes, além de inclusão e inovação pedagógica.\nPara mais informações acesse o site: https://iftm.edu.br/editais/projetos-de-ensino-pesquisa-e-extensao/apoio-a-projetos-de-ensino/20250212/projetos-de-ensino-de-fluxo-continuo-2025/"
+    },
+    {
+      "id": 11,
+      "text": "Incentivo à tradução e publicação de artigos científicos\n\nEstão abertas, até 1º de dezembro de 2025, as inscrições para solicitação de auxílio financeiro de até R$ 2.500,00 destinado à tradução e publicação de artigos científicos em periódicos internacionais. O edital tem como objetivo ampliar a visibilidade da produção acadêmica do IFTM, fortalecer a internacionalização e incentivar a difusão do conhecimento em revistas de alcance global.\nPara mais informações acesse o site: https://iftm.edu.br/editais/projetos-de-ensino-pesquisa-e-extensao/cartao-bb-selecao-de-projetos/20250520/edital-n-01-2025-edital-de-incentivo-a-traducao-e-publicacao-de-artigos/"
+    },
+    {
+      "id": 12,
+      "text": "Convênios e descontos para servidores\n\nEstá aberta a chamada pública para celebração de convênios entre o IFTM e empresas, MEIs ou profissionais liberais, oferecendo descontos em produtos e serviços para servidores (ativos e inativos), cônjuges e dependentes. As inscrições ocorrem até 2028, e os benefícios incluem descontos parciais ou integrais em diversas áreas, como educação, saúde, lazer, cultura, turismo, transporte e alimentação.\nPara mais informações acesse o site: https://iftm.edu.br/editais/chamadas-publicas/chamada-publica-para-convenios-de-descontos-aos-servidores/20250807/convenios-de-descontos-aos-servidores-coacel"
+    },
+    {
+      "id": 13,
+      "text": "Chamada pública – Patrocínio e apoio ao universo IFTM 2025\n\nEstão abertas, de 6 de maio a 13 de setembro de 2025, as inscrições para empresas e instituições interessadas em apoiar o Universo IFTM 2025, que será realizado de 3 a 7 de novembro, em Uberlândia/MG. O edital prevê patrocínios e apoios na forma de recursos financeiros, materiais ou serviços, em troca de contrapartidas de visibilidade institucional, como divulgação em mídias, materiais gráficos e cerimônias do evento.\nPara mais informações acesse o site: https://iftm.edu.br/editais/projetos-de-ensino-pesquisa-e-extensao/eventos-propi/20250425/edital-n-03-2025-propi-rei-reitoria-edital-de-chamada-publica-para-captacao-de-patrocinio-e-apoio-para-o-evento-universo-2025/"
+    }
+  ]
   },
 ];
